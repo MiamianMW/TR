@@ -657,7 +657,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Alt Bosara, Atherios Adirion: Weaponsmith</key>
-	<val>Alt Bosara, Atherios Adirion: Kowal</val>
+	<val>Alt Bosara, Atherios Adirion: Miecznik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -667,7 +667,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Alt Bosara, Favana Selethi: Clothier</key>
-	<val>Alt Bosara, Favana Selethi: Krawiec</val>
+	<val>Alt Bosara, Favana Selethi: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2912,7 +2912,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Fedrin Adlan: Clothier</key>
-	<val>Firewatch, Fedrin Adlan: Krawiec</val>
+	<val>Firewatch, Fedrin Adlan: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3112,7 +3112,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gah Sadrith, Marin Tabas: Clothier</key>
-	<val>Gah Sadrith, Marin Tabas: Krawiec</val>
+	<val>Gah Sadrith, Marin Tabas: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3302,7 +3302,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, Methalas Eves: General Trader</key>
-	<val>Gorne, Methalas Eves: Kupiec towarów wszelakich</val>
+	<val>Gorne, Methalas Eves: Kupiec Towarów Wszelakich</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3552,7 +3552,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Cervius Veris: General Merchant</key>
-	<val>Helnim, Cervius Veris: Kupiec towarów wszelakich</val>
+	<val>Helnim, Cervius Veris: Kupiec Towarów Wszelakich</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3642,7 +3642,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Falkoth: Clothier</key>
-	<val>Helnim, Falkoth: Krawiec</val>
+	<val>Helnim, Falkoth: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5002,7 +5002,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, Merlador: Clothier</key>
-	<val>Llothanis, Merlador: Krawiec</val>
+	<val>Llothanis, Merlador: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6387,7 +6387,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Eurilon: Weaponsmith</key>
-	<val>Stare Ebonheart, Eurilon: Kowal</val>
+	<val>Stare Ebonheart, Eurilon: Miecznik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6887,7 +6887,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Yaguz gro-Dhaluk: Clothier</key>
-	<val>Stare Ebonheart, Yaguz gro-Dhaluk: Krawiec</val>
+	<val>Stare Ebonheart, Yaguz gro-Dhaluk: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7202,7 +7202,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Calbin Ragis: Clothier</key>
-	<val>Port Telvannis, Calbin Ragis: Krawiec</val>
+	<val>Port Telvannis, Calbin Ragis: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7337,7 +7337,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Sendal Tithres: Weaponsmith</key>
-	<val>Port Telvannis, Sendal Tithres: Kowal</val>
+	<val>Port Telvannis, Sendal Tithres: Miecznik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7992,7 +7992,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sailen, Llonise Fovalith: Clothier</key>
-	<val>Sailen, Llonise Fovalith: Krawcowa</val>
+	<val>Sailen, Llonise Fovalith: Sukiennik</val>
 </record>
 <record>
 	<_id>CELL</_id>
