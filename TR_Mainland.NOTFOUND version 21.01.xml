@@ -22,7 +22,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Acre of Saint Meris</key>
-	<val>Pole î¯. Meris</val>
+	<val>Pole œw. Meris</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -102,7 +102,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Aegondo Point</key>
-	<val>Przylé‰…ek Aegondo</val>
+	<val>Przyl¹dek Aegondo</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -142,7 +142,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Aimrah, Ivon Seloth: Priest</key>
-	<val>Aimrah, Ivon Seloth: Kapè±‰n</val>
+	<val>Aimrah, Ivon Seloth: Kap³an</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -162,7 +162,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Aimrah, The Sailors' Inn</key>
-	<val>Aimrah, gospoda U ç–¾glarza</val>
+	<val>Aimrah, gospoda U ¯eglarza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -192,12 +192,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Abanidanon, Old Mine Shaft</key>
-	<val>Akamora, Abanidanon: stary szyb géniczy</val>
+	<val>Akamora, Abanidanon: stary szyb górniczy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Aravel Manor</key>
-	<val>Akamora, posiadé€™î°« Aravel</val>
+	<val>Akamora, posiad³oœæ Aravel</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -207,7 +207,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Arenim Manor</key>
-	<val>Akamora, posiadé€™î°« Arenim</val>
+	<val>Akamora, posiad³oœæ Arenim</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -217,37 +217,37 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Dralethan Manor</key>
-	<val>Akamora, posiadé€™î°« Dralethan</val>
+	<val>Akamora, posiad³oœæ Dralethan</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Guard Tower</key>
-	<val>Akamora, wieç˜¸ straç©icza</val>
+	<val>Akamora, wie¿a stra¿nicza</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Guild of Fighters</key>
-	<val>Akamora, Gildia Wojowniké—š</val>
+	<val>Akamora, Gildia Wojowników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Guild of Mages</key>
-	<val>Akamora, Gildia Magé—š</val>
+	<val>Akamora, Gildia Magów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Guls Manor</key>
-	<val>Akamora, posiadé€™î°« Guls</val>
+	<val>Akamora, posiad³oœæ Guls</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Indaren Manor</key>
-	<val>Akamora, posiadé€™î°« Indaren</val>
+	<val>Akamora, posiad³oœæ Indaren</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Indaren Manor, Cellar</key>
-	<val>Akamora, posiadé€™î°« Indaren: piwnica</val>
+	<val>Akamora, posiad³oœæ Indaren: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -267,12 +267,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Miner's Residence</key>
-	<val>Akamora, kwatery géniké—š</val>
+	<val>Akamora, kwatery górników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Miners Club</key>
-	<val>Akamora, Oberç˜¸ Géniké—š</val>
+	<val>Akamora, Ober¿a Górników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -282,7 +282,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Mining Head Office</key>
-	<val>Akamora, zarzé‰… kopalni</val>
+	<val>Akamora, zarz¹d kopalni</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -292,22 +292,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Parys Manor</key>
-	<val>Akamora, posiadé€™î°« Parys</val>
+	<val>Akamora, posiad³oœæ Parys</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Rorvam Manor</key>
-	<val>Akamora, posiadé€™î°« Rorvam</val>
+	<val>Akamora, posiad³oœæ Rorvam</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Salenith Manor</key>
-	<val>Akamora, posiadé€™î°« Salenith</val>
+	<val>Akamora, posiad³oœæ Salenith</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Senim Manor</key>
-	<val>Akamora, posiadé€™î°« Senim</val>
+	<val>Akamora, posiad³oœæ Senim</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -317,17 +317,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Telomas Manor</key>
-	<val>Akamora, posiadé€™î°« Telomas</val>
+	<val>Akamora, posiad³oœæ Telomas</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Temple</key>
-	<val>Akamora, ï–®ié–ynia</val>
+	<val>Akamora, Œwi¹tynia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, The Laughing Goblin</key>
-	<val>Akamora, Rozeî¯”iany Goblin</val>
+	<val>Akamora, Rozeœmiany Goblin</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -347,7 +347,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Varen Manor</key>
-	<val>Akamora, posiadé€™î°« Varen</val>
+	<val>Akamora, posiad³oœæ Varen</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -362,7 +362,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Akamora, Veri Manor</key>
-	<val>Akamora, posiadé€™î°« Veri</val>
+	<val>Akamora, posiad³oœæ Veri</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -382,7 +382,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ald Niripal, Outer Halls</key>
-	<val>Ald Niripal, zewnçš»rzne sale</val>
+	<val>Ald Niripal, zewnêtrzne sale</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -397,7 +397,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ald Verya Ruins, Tower</key>
-	<val>Ruiny Ald Veryi, wieç˜¸</val>
+	<val>Ruiny Ald Veryi, wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -412,7 +412,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Alendu Plantation, Mansion</key>
-	<val>Plantacja Alendu, posiadé€™î°«</val>
+	<val>Plantacja Alendu, posiad³oœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -437,17 +437,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Canalworks</key>
-	<val>Almas Thirr, kanaé€ </val>
+	<val>Almas Thirr, kana³y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Canalworks Temple</key>
-	<val>Almas Thirr, kanaé€ : ï–®ié–ynia</val>
+	<val>Almas Thirr, kana³y: Œwi¹tynia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Canalworks Tombs</key>
-	<val>Almas Thirr, kanaé€ : grobowce</val>
+	<val>Almas Thirr, kana³y: grobowce</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -472,7 +472,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Hall of Tribute</key>
-	<val>Almas Thirr, Sala Hoè²¬u</val>
+	<val>Almas Thirr, Sala Ho³du</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -482,22 +482,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Hospice of the Crossing</key>
-	<val>Almas Thirr, Hospicjum Na Rozdroç°‘</val>
+	<val>Almas Thirr, Hospicjum Na Rozdro¿u</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Indoril Dorvi's Manor</key>
-	<val>Almas Thirr, posiadé€™î°« Indoril Dorvi</val>
+	<val>Almas Thirr, posiad³oœæ Indoril Dorvi</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Indoril Garrison</key>
-	<val>Almas Thirr, indoriliaé›Ÿkie koszary</val>
+	<val>Almas Thirr, indoriliañskie koszary</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Indoril Garrison, Quarters</key>
-	<val>Almas Thirr, indoriliaé›Ÿkie koszary, kwatery</val>
+	<val>Almas Thirr, indoriliañskie koszary, kwatery</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -512,7 +512,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Limping Scrib</key>
-	<val>Almas Thirr, Kulejé‰y Pç’ rak</val>
+	<val>Almas Thirr, Kulej¹cy Pêdrak</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -532,12 +532,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Monastery of St. Veloth</key>
-	<val>Almas Thirr, klasztor î¯. Velotha</val>
+	<val>Almas Thirr, klasztor œw. Velotha</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Monastery of St. Veloth, Dome</key>
-	<val>Almas Thirr, klasztor î¯. Velotha: kopuè±‰</val>
+	<val>Almas Thirr, klasztor œw. Velotha: kopu³a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -547,17 +547,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Office of Intercession</key>
-	<val>Almas Thirr, Urzé‰… Wstawiennictwa</val>
+	<val>Almas Thirr, Urz¹d Wstawiennictwa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Office of Recording</key>
-	<val>Almas Thirr, Urzé‰… Rejestracji</val>
+	<val>Almas Thirr, Urz¹d Rejestracji</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Ordinator Barracks</key>
-	<val>Almas Thirr, koszary Straç¯¡ ï–®ié–ynnej</val>
+	<val>Almas Thirr, koszary Stra¿y Œwi¹tynnej</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -582,7 +582,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Shrine of St. Meris the Mediator</key>
-	<val>Almas Thirr, kaplica î¯. Meris Rozjemczyni</val>
+	<val>Almas Thirr, kaplica œw. Meris Rozjemczyni</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -592,32 +592,32 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Tailors and Dyers Hall</key>
-	<val>Almas Thirr, Cech Krawcé—š i Farbiarzy</val>
+	<val>Almas Thirr, Cech Krawców i Farbiarzy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, The Glinting Moth, Cabin</key>
-	<val>Almas Thirr, Lî¯•ié‰a è®œa, kajuta</val>
+	<val>Almas Thirr, Lœni¹ca Æma, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, The Glinting Moth, Crew Quarters</key>
-	<val>Almas Thirr, Lî¯•ié‰a è®œa, kwatery zaé€™gi</val>
+	<val>Almas Thirr, Lœni¹ca Æma, kwatery za³ogi</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, The Glinting Moth, Hold</key>
-	<val>Almas Thirr, Lî¯•ié‰a è®œa, è±‰downia</val>
+	<val>Almas Thirr, Lœni¹ca Æma, ³adownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Thirsty Saint Cornerclub</key>
-	<val>Almas Thirr, oberç˜¸ Spragniony ï–®içš»oszek</val>
+	<val>Almas Thirr, ober¿a Spragniony Œwiêtoszek</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Tilresi: Bookseller</key>
-	<val>Almas Thirr, Tilresi: Ksiç’•arz</val>
+	<val>Almas Thirr, Tilresi: Ksiêgarz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -627,7 +627,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Tradehouse, Tower</key>
-	<val>Almas Thirr, dom cechowy, wieç˜¸</val>
+	<val>Almas Thirr, dom cechowy, wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -637,7 +637,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Underworks Hideout</key>
-	<val>Almas Thirr, podziemia: kryjé—ška</val>
+	<val>Almas Thirr, podziemia: kryjówka</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -672,7 +672,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Alt Bosara, Fevras Beran's General Supplies</key>
-	<val>Alt Bosara, Sklep Wielobranç©wy Fevrasa Berana</val>
+	<val>Alt Bosara, Sklep Wielobran¿owy Fevrasa Berana</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -712,7 +712,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ammar, Entrance Hall</key>
-	<val>Ammar, sala wejî¯Šiowa</val>
+	<val>Ammar, sala wejœciowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -722,12 +722,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ammar, Guard Tower</key>
-	<val>Ammar, wieç˜¸ straç©icza</val>
+	<val>Ammar, wie¿a stra¿nicza</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ammar, Indalas Manor</key>
-	<val>Ammar, posiadé€™î°« Indalas</val>
+	<val>Ammar, posiad³oœæ Indalas</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -747,17 +747,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Andresian Dreugh: Cabin</key>
-	<val>Andresjaé›Ÿki Dreugh: kajuta</val>
+	<val>Andresjañski Dreugh: kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Andresian Dreugh: Lower Deck</key>
-	<val>Andresjaé›Ÿki Dreugh: dolny pokè±‰d</val>
+	<val>Andresjañski Dreugh: dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Andresian Dreugh: Upper Deck</key>
-	<val>Andresjaé›Ÿki Dreugh: gény pokè±‰d</val>
+	<val>Andresjañski Dreugh: górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -777,7 +777,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ardkoz, Test of Disorder</key>
-	<val>Ardkoz, Sprawdzian Zaburzeï¿½</val>
+	<val>Ardkoz, Sprawdzian Zaburzeñ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -792,12 +792,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Aren Manor</key>
-	<val>Posiadé€™î°« Aren</val>
+	<val>Posiad³oœæ Aren</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Aren Manor, Guardhouse</key>
-	<val>Posiadé€™î°« Aren, wartownia</val>
+	<val>Posiad³oœæ Aren, wartownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -807,7 +807,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Arkantng, Broken Passages</key>
-	<val>Arkantng, zawalone przejî¯Šia</val>
+	<val>Arkantng, zawalone przejœcia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -832,12 +832,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Arkgnthleft, Towers</key>
-	<val>Arkgnthleft, wieç </val>
+	<val>Arkgnthleft, wie¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Arkgnthleft, Upper Levels</key>
-	<val>Arkgnthleft, géne poziomy</val>
+	<val>Arkgnthleft, górne poziomy</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -847,7 +847,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ashamul, Cave Hall</key>
-	<val>Ashamul, gå ¯wna jaskinia</val>
+	<val>Ashamul, g³ówna jaskinia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -902,7 +902,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Astius Claenia's Hideout</key>
-	<val>Kryjé—ška Astiusa Claenii</val>
+	<val>Kryjówka Astiusa Claenii</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1042,7 +1042,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bal Oyra, Census and Excise Office</key>
-	<val>Bal Oyra, Biuro Spisé—š i Opodatkowania</val>
+	<val>Bal Oyra, Biuro Spisów i Opodatkowania</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1067,7 +1067,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bal Oyra, Hrongal Wavebreaker's House</key>
-	<val>Bal Oyra, dom Hrongala Wè±‰dcy Fal</val>
+	<val>Bal Oyra, dom Hrongala W³adcy Fal</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1107,7 +1107,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bal Oyra, Keep: Mages Guild Relay</key>
-	<val>Bal Oyra, warownia: punkt teleportacyjny Gildii Magé—š</val>
+	<val>Bal Oyra, warownia: punkt teleportacyjny Gildii Magów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1127,7 +1127,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bal Oyra, Nethrendes Manor</key>
-	<val>Bal Oyra, posiadé€™î°« Nethrendes</val>
+	<val>Bal Oyra, posiad³oœæ Nethrendes</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1147,7 +1147,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bal Oyra, Rocconius' Clothing Store</key>
-	<val>Bal Oyra, Sklep Odzieç©wy Rocconiusa</val>
+	<val>Bal Oyra, Sklep Odzie¿owy Rocconiusa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1162,12 +1162,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bal Oyra, The Elfmaid</key>
-	<val>Bal Oyra, Elficka Pokojé—ška</val>
+	<val>Bal Oyra, Elficka Pokojówka</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Bal Oyra, The Elfmaid: Captain's Quarters</key>
-	<val>Bal Oyra, Elficka Pokojé—ška: kajuta kapitana</val>
+	<val>Bal Oyra, Elficka Pokojówka: kajuta kapitana</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1232,7 +1232,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Balhadarshad Den, Deep Chambers</key>
-	<val>Jama Balhadarshad, sale w gå–šbinach</val>
+	<val>Jama Balhadarshad, sale w g³êbinach</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1242,7 +1242,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Balsincag Diamond Mine</key>
-	<val>Kopalnia diamenté—š Balsincag</val>
+	<val>Kopalnia diamentów Balsincag</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1277,7 +1277,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bazhthum, Craftsman's Hall</key>
-	<val>Bazhthum, Sala Rzemieî¯“niké—š</val>
+	<val>Bazhthum, Sala Rzemieœlników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1287,17 +1287,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Beached Shipwreck, Cabin</key>
-	<val>Wrak osiadé€  na mieliî¶¬ie, kajuta</val>
+	<val>Wrak osiad³y na mieliŸnie, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Beached Shipwreck, Lower Level</key>
-	<val>Wrak osiadé€  na mieliî¶¬ie, dolny pokè±‰d</val>
+	<val>Wrak osiad³y na mieliŸnie, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Beached Shipwreck, Upper Level</key>
-	<val>Wrak osiadé€  na mieliî¶¬ie, gény pokè±‰d</val>
+	<val>Wrak osiad³y na mieliŸnie, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1337,7 +1337,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bisandryon, Abyss</key>
-	<val>Bisandryon, Gå–šbia</val>
+	<val>Bisandryon, G³êbia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1347,7 +1347,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bisandryon, Dome of Selvu</key>
-	<val>Bisandryon, Kopuè±‰ Selvu</val>
+	<val>Bisandryon, Kopu³a Selvu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1367,12 +1367,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bisandryon, War Temple</key>
-	<val>Bisandryon, ï–®ié–ynia Wojny</val>
+	<val>Bisandryon, Œwi¹tynia Wojny</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Boethian Deeps, Antechamber</key>
-	<val>Gå–šbie Boethiaé›Ÿkie, przedsionek</val>
+	<val>G³êbie Boethiañskie, przedsionek</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1382,7 +1382,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Boethian Mountains Lighthouse</key>
-	<val>Latarnia w Géach Boethiaé›Ÿkich</val>
+	<val>Latarnia w Górach Boethiañskich</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1407,7 +1407,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bosmora, Farys Manor</key>
-	<val>Bosmora, posiadé€™î°« Farys</val>
+	<val>Bosmora, posiad³oœæ Farys</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1417,12 +1417,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bosmora, Indoril Vault</key>
-	<val>Bosmora, indoriliaé›Ÿka krypta</val>
+	<val>Bosmora, indoriliañska krypta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Bosmora, Mages Guild Relay</key>
-	<val>Bosmora, punkt teleportacyjny Gildii Magé—š</val>
+	<val>Bosmora, punkt teleportacyjny Gildii Magów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1437,12 +1437,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bosmora, Seized House</key>
-	<val>Bosmora, zajçš»y dom</val>
+	<val>Bosmora, zajêty dom</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Bosmora, Temple</key>
-	<val>Bosmora, ï–®ié–ynia</val>
+	<val>Bosmora, Œwi¹tynia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1452,7 +1452,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bosmora, The Starlight Inn</key>
-	<val>Bosmora, Gwieî¶¢zista Gospoda</val>
+	<val>Bosmora, GwieŸdzista Gospoda</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1462,7 +1462,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bthangthamuzand, Entrance Hall</key>
-	<val>Bthangthamuzand, Sala Wejî¯Šiowa</val>
+	<val>Bthangthamuzand, Sala Wejœciowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1472,12 +1472,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bthangthamuzand, Tower of Columns</key>
-	<val>Bthangthamuzand, Wieç˜¸ Kolumn</val>
+	<val>Bthangthamuzand, Wie¿a Kolumn</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Bthangthamuzand, Tower of the Basin</key>
-	<val>Bthangthamuzand, Wieç˜¸ Basenu</val>
+	<val>Bthangthamuzand, Wie¿a Basenu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1512,7 +1512,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bthzundcheft, Hall of Towers</key>
-	<val>Bthzundcheft, Sala Wieï¿½</val>
+	<val>Bthzundcheft, Sala Wie¿</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1532,7 +1532,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Cephorad Keep, Interior</key>
-	<val>Twierdza Cephorad, wnçš»rze</val>
+	<val>Twierdza Cephorad, wnêtrze</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1582,7 +1582,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dansudipat Egg Mine, Queen's Lair</key>
-	<val>Kopalnia jaj Dansudipat, leç  kréŠowej</val>
+	<val>Kopalnia jaj Dansudipat, le¿e królowej</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1627,7 +1627,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dastardly Forsaken Shipwreck, Hold</key>
-	<val>Opuszczony wrak, è±‰downia</val>
+	<val>Opuszczony wrak, ³adownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1637,7 +1637,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Deep Waters</key>
-	<val>Gå–šbiny</val>
+	<val>G³êbiny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1652,12 +1652,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Denaven Egg Mine Housing</key>
-	<val>Kopalnia jaj Denaven, czï¿½ï¿½ mieszkalna</val>
+	<val>Kopalnia jaj Denaven, czêœæ mieszkalna</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Denaven Egg Mine Passage</key>
-	<val>Kopalnia jaj Denaven, przejî¯Šie</val>
+	<val>Kopalnia jaj Denaven, przejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1697,12 +1697,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Denaven Manor</key>
-	<val>Posiadé€™î°« Denaven</val>
+	<val>Posiad³oœæ Denaven</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Denaven Manor, West Wing</key>
-	<val>Posiadé€™î°« Denaven, zachodnie skrzydé€™</val>
+	<val>Posiad³oœæ Denaven, zachodnie skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1737,7 +1737,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Diligent Faith, Hold</key>
-	<val>Gorliwa Wiara, è±‰downia</val>
+	<val>Gorliwa Wiara, ³adownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1762,7 +1762,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dondril, Craftsmer's Hall</key>
-	<val>Dondril, Cech Rzemieî¯“niké—š</val>
+	<val>Dondril, Cech Rzemieœlników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1852,12 +1852,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dragon Nest Inn</key>
-	<val>Gospoda Smocze Leç </val>
+	<val>Gospoda Smocze Le¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dragonhead Point</key>
-	<val>Przylé‰…ek Smoczego Î·a</val>
+	<val>Przyl¹dek Smoczego £ba</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1872,7 +1872,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dral's Sanctum, Heaven's Abyss</key>
-	<val>Sanktuarium Drala, Niebiaé›Ÿka Otchè±‰ï¿½</val>
+	<val>Sanktuarium Drala, Niebiañska Otch³añ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1902,12 +1902,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dreynim Spa, Foyer</key>
-	<val>Uzdrowisko Dreynim, wejî¯Šie</val>
+	<val>Uzdrowisko Dreynim, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dreynim Spa, Hot Springs</key>
-	<val>Uzdrowisko Dreynim, goré‰e î¶°éšè±‰</val>
+	<val>Uzdrowisko Dreynim, gor¹ce Ÿród³a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1917,7 +1917,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dreynim Spa, Hotel: Middle</key>
-	<val>Uzdrowisko Dreynim, hotel: piçš»ro</val>
+	<val>Uzdrowisko Dreynim, hotel: piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1927,7 +1927,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dreynim Spa, North Wing</key>
-	<val>Uzdrowisko Dreynim, pé¦§nocne skrzydé€™</val>
+	<val>Uzdrowisko Dreynim, pó³nocne skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1942,7 +1942,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dreynim Spa, Upstairs</key>
-	<val>Uzdrowisko Dreynim, piçš»ro</val>
+	<val>Uzdrowisko Dreynim, piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1962,7 +1962,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dreynim, Equipment Shack</key>
-	<val>Dreynim, chata z wyposaç niem</val>
+	<val>Dreynim, chata z wyposa¿eniem</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -1997,7 +1997,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Drolar Manor Ruin</key>
-	<val>Ruiny posiadé€™î¯Ši Drolar</val>
+	<val>Ruiny posiad³oœci Drolar</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2017,7 +2017,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dulandos, Main Hall</key>
-	<val>Dulandos, gå ¯wna sala</val>
+	<val>Dulandos, g³ówna sala</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2037,7 +2037,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dulandos, Top Floor</key>
-	<val>Dulandos, najwyçªºze piçš»ro</val>
+	<val>Dulandos, najwy¿sze piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2067,7 +2067,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell Canals</key>
-	<val>Dun Akafell, kanaé€ </val>
+	<val>Dun Akafell, kana³y</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2082,7 +2082,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Entrance</key>
-	<val>Dun Akafell, wejî¯Šie</val>
+	<val>Dun Akafell, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2097,42 +2097,42 @@
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Forgotten Vault, Upper Floor</key>
-	<val>Dun Akafell, zapomniana krypta: géne piçš»ro</val>
+	<val>Dun Akafell, zapomniana krypta: górne piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Forsaken Manor</key>
-	<val>Dun Akafell, opuszczona posiadé€™î°«</val>
+	<val>Dun Akafell, opuszczona posiad³oœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Forsaken Manor, Basement</key>
-	<val>Dun Akafell, opuszczona posiadé€™î°«: piwnica</val>
+	<val>Dun Akafell, opuszczona posiad³oœæ: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Manor Basement</key>
-	<val>Dun Akafell, posiadé€™î°«: piwnica</val>
+	<val>Dun Akafell, posiad³oœæ: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Manor Entrance</key>
-	<val>Dun Akafell, posiadé€™î°«: wejî¯Šie</val>
+	<val>Dun Akafell, posiad³oœæ: wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Manor Upper Floor</key>
-	<val>Dun Akafell, posiadé€™î°«: géne piçš»ro</val>
+	<val>Dun Akafell, posiad³oœæ: górne piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Ominous Manor</key>
-	<val>Dun Akafell, straszny dwé</val>
+	<val>Dun Akafell, straszny dwór</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Dun Akafell, Ominous Manor Second floor</key>
-	<val>Dun Akafell, straszny dwé: drugie piçš»ro</val>
+	<val>Dun Akafell, straszny dwór: drugie piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2167,7 +2167,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Durthungz, Faltering Tower</key>
-	<val>Durthungz, Sè±‰bné‰a Wieç˜¸</val>
+	<val>Durthungz, S³abn¹ca Wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2177,7 +2177,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Durthungz, Restless Tower</key>
-	<val>Durthungz, Niespokojna Wieç˜¸</val>
+	<val>Durthungz, Niespokojna Wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2192,262 +2192,262 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower</key>
-	<val>Wieç˜¸ z Ebonu</val>
+	<val>Wie¿a z Ebonu</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Akatosh's Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Akatosha</val>
+	<val>Wie¿a z Ebonu, Wie¿a Akatosha</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Akatosh's Tower: Chamber</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Akatosha: komnata</val>
+	<val>Wie¿a z Ebonu, Wie¿a Akatosha: komnata</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Arkay's Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Arkaya</val>
+	<val>Wie¿a z Ebonu, Wie¿a Arkaya</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Arkay's Tower: Undercroft Mortuary</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Arkaya: kostnica w podziemiach</val>
+	<val>Wie¿a z Ebonu, Wie¿a Arkaya: kostnica w podziemiach</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Coastguard Keep</key>
-	<val>Wieç˜¸ z Ebonu, twierdza Straç¯¡ Wybrzeç˜¸</val>
+	<val>Wie¿a z Ebonu, twierdza Stra¿y Wybrze¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Curia</key>
-	<val>Wieç˜¸ z Ebonu, kuria</val>
+	<val>Wie¿a z Ebonu, kuria</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Curia: Central Offices</key>
-	<val>Wieç˜¸ z Ebonu, kuria: centralne biura</val>
+	<val>Wie¿a z Ebonu, kuria: centralne biura</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Curia: Hall of Justice</key>
-	<val>Wieç˜¸ z Ebonu, kuria: Sala Sprawiedliwoî¯Ši</val>
+	<val>Wie¿a z Ebonu, kuria: Sala Sprawiedliwoœci</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Curia: Imperial Treasury Vault</key>
-	<val>Wieç˜¸ z Ebonu, kuria: cesarski skarbiec</val>
+	<val>Wie¿a z Ebonu, kuria: cesarski skarbiec</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Curia: Offices East</key>
-	<val>Wieç˜¸ z Ebonu, kuria: wschodnie biura</val>
+	<val>Wie¿a z Ebonu, kuria: wschodnie biura</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Curia: Offices West</key>
-	<val>Wieç˜¸ z Ebonu, kuria: zachodnie biura</val>
+	<val>Wie¿a z Ebonu, kuria: zachodnie biura</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Curia: Top Floor</key>
-	<val>Wieç˜¸ z Ebonu, kuria: najwyçªºze piçš»ro</val>
+	<val>Wie¿a z Ebonu, kuria: najwy¿sze piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Dibella's Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Dibelli</val>
+	<val>Wie¿a z Ebonu, Wie¿a Dibelli</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Eastern Curtain Tower</key>
-	<val>Wieç˜¸ z Ebonu, wschodnia wieç˜¸ kurtynowa</val>
+	<val>Wie¿a z Ebonu, wschodnia wie¿a kurtynowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Elsweyr Mission</key>
-	<val>Wieç˜¸ z Ebonu, Poselstwo Elsweyr</val>
+	<val>Wie¿a z Ebonu, Poselstwo Elsweyr</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Hammerfell Mission</key>
-	<val>Wieç˜¸ z Ebonu, Poselstwo Hammerfell</val>
+	<val>Wie¿a z Ebonu, Poselstwo Hammerfell</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, High Rock Mission</key>
-	<val>Wieç˜¸ z Ebonu, Poselstwo Wysokiej Skaé€ </val>
+	<val>Wie¿a z Ebonu, Poselstwo Wysokiej Ska³y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Imperial Census Office</key>
-	<val>Wieç˜¸ z Ebonu, Cesarskie Biuro Spisé—š</val>
+	<val>Wie¿a z Ebonu, Cesarskie Biuro Spisów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Julianos' Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Julianosa</val>
+	<val>Wie¿a z Ebonu, Wie¿a Julianosa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Kynareth's Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Kynareth</val>
+	<val>Wie¿a z Ebonu, Wie¿a Kynareth</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Legion</key>
-	<val>Wieç˜¸ z Ebonu, Legion</val>
+	<val>Wie¿a z Ebonu, Legion</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Legion: Cell</key>
-	<val>Wieç˜¸ z Ebonu, Legion: cela</val>
+	<val>Wie¿a z Ebonu, Legion: cela</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Legion: Dungeons</key>
-	<val>Wieç˜¸ z Ebonu, Legion: podziemia</val>
+	<val>Wie¿a z Ebonu, Legion: podziemia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Legion: Headquarters</key>
-	<val>Wieç˜¸ z Ebonu, Legion: kwatera gå ¯wna</val>
+	<val>Wie¿a z Ebonu, Legion: kwatera g³ówna</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Legion: Smithy</key>
-	<val>Wieç˜¸ z Ebonu, Legion: kuî¶¬ia</val>
+	<val>Wie¿a z Ebonu, Legion: kuŸnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Lower Gateway Tower</key>
-	<val>Wieç˜¸ z Ebonu, wieç˜¸ dolnej bramy</val>
+	<val>Wie¿a z Ebonu, wie¿a dolnej bramy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Mara's Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Mary</val>
+	<val>Wie¿a z Ebonu, Wie¿a Mary</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Mara's Tower: Chamber</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Mary: komnata</val>
+	<val>Wie¿a z Ebonu, Wie¿a Mary: komnata</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Orsinium Mission</key>
-	<val>Wieç˜¸ z Ebonu, Poselstwo Orsinium</val>
+	<val>Wie¿a z Ebonu, Poselstwo Orsinium</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c</val>
+	<val>Wie¿a z Ebonu, pa³ac</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Ducal Meeting Chambers</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: ksiå˜€ç’še sale obrad</val>
+	<val>Wie¿a z Ebonu, pa³ac: ksi¹¿êce sale obrad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Emperor's Quarters</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: kwatery cesarza</val>
+	<val>Wie¿a z Ebonu, pa³ac: kwatery cesarza</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Great Hall</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: wielka sala</val>
+	<val>Wie¿a z Ebonu, pa³ac: wielka sala</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: High Chambers</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: luksusowe komnaty</val>
+	<val>Wie¿a z Ebonu, pa³ac: luksusowe komnaty</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Household</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: czï¿½ï¿½ mieszkalna</val>
+	<val>Wie¿a z Ebonu, pa³ac: czêœæ mieszkalna</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Library</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: biblioteka</val>
+	<val>Wie¿a z Ebonu, pa³ac: biblioteka</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Proconsul's Quarters</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: kwatery prokonsula</val>
+	<val>Wie¿a z Ebonu, pa³ac: kwatery prokonsula</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Southeast Tower</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: poé€dniowo-wschodnia wieç˜¸</val>
+	<val>Wie¿a z Ebonu, pa³ac: po³udniowo-wschodnia wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Southwest Tower</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: poé€dniowo-zachodnia wieç˜¸</val>
+	<val>Wie¿a z Ebonu, pa³ac: po³udniowo-zachodnia wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Palace: Treasure Chamber</key>
-	<val>Wieç˜¸ z Ebonu, paè±‰c: skarbiec</val>
+	<val>Wie¿a z Ebonu, pa³ac: skarbiec</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Resettlement Office</key>
-	<val>Wieç˜¸ z Ebonu, Urzé‰… ds. Przesiedleï¿½</val>
+	<val>Wie¿a z Ebonu, Urz¹d ds. Przesiedleñ</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Sewers</key>
-	<val>Wieç˜¸ z Ebonu, kanaé€ </val>
+	<val>Wie¿a z Ebonu, kana³y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Sewers: Lower</key>
-	<val>Wieç˜¸ z Ebonu, kanaé€ : dolne</val>
+	<val>Wie¿a z Ebonu, kana³y: dolne</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Sewers: Upper</key>
-	<val>Wieç˜¸ z Ebonu, kanaé€ : géne</val>
+	<val>Wie¿a z Ebonu, kana³y: górne</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Southern Curtain Tower</key>
-	<val>Wieç˜¸ z Ebonu, poé€dniowa wieç˜¸ kurtynowa</val>
+	<val>Wie¿a z Ebonu, po³udniowa wie¿a kurtynowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Stendarr's Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Stendarra</val>
+	<val>Wie¿a z Ebonu, Wie¿a Stendarra</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Summerset Isles Mission</key>
-	<val>Wieç˜¸ z Ebonu, Poselstwo Wyspy Summerset</val>
+	<val>Wie¿a z Ebonu, Poselstwo Wyspy Summerset</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Talos' Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Talosa</val>
+	<val>Wie¿a z Ebonu, Wie¿a Talosa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Upper Gateway Towers</key>
-	<val>Wieç˜¸ z Ebonu, wieç  génej bramy</val>
+	<val>Wie¿a z Ebonu, wie¿e górnej bramy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Valenwood Mission</key>
-	<val>Wieç˜¸ z Ebonu, Poselstwo Puszczy Valen</val>
+	<val>Wie¿a z Ebonu, Poselstwo Puszczy Valen</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ebon Tower, Zenithar's Tower</key>
-	<val>Wieç˜¸ z Ebonu, Wieç˜¸ Zenithara</val>
+	<val>Wie¿a z Ebonu, Wie¿a Zenithara</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2467,7 +2467,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Emmurbalpitu, Aisle of Dawn</key>
-	<val>Emmurbalpitu, Aleja ï–®itu</val>
+	<val>Emmurbalpitu, Aleja Œwitu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2492,7 +2492,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Enamor Dayn, Adarys Manor</key>
-	<val>Enamor Dayn, posiadé€™î°« Adarys</val>
+	<val>Enamor Dayn, posiad³oœæ Adarys</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2577,17 +2577,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Erethan Plantation, Lower Tower</key>
-	<val>Ernaberinsu, dolny poziom wieç¯¡</val>
+	<val>Ernaberinsu, dolny poziom wie¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Erethan Plantation, Manor</key>
-	<val>Plantacja Erethan, posiadé€™î°«</val>
+	<val>Plantacja Erethan, posiad³oœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Erethan Plantation, Manor: Attic</key>
-	<val>Plantacja Erethan, posiadé€™î°«: poddasze</val>
+	<val>Plantacja Erethan, posiad³oœæ: poddasze</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2607,7 +2607,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Erethan Plantation, Upper Tower</key>
-	<val>Ernaberinsu, gény poziom wieç¯¡</val>
+	<val>Ernaberinsu, górny poziom wie¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2617,7 +2617,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ernaberinsu, Upper Level</key>
-	<val>Ernaberinsu, gény poziom</val>
+	<val>Ernaberinsu, górny poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2667,17 +2667,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Exodus, Lower Level</key>
-	<val>Exodus, dolny pokè±‰d</val>
+	<val>Exodus, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Exodus, Upper Level</key>
-	<val>Exodus, gény pokè±‰d</val>
+	<val>Exodus, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Exposed Shipwreck</key>
-	<val>Odsé€™niçš»y wrak</val>
+	<val>Ods³oniêty wrak</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2777,7 +2777,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Library, First Floor</key>
-	<val>Firewatch, biblioteka: pierwsze piçš»ro</val>
+	<val>Firewatch, biblioteka: pierwsze piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2787,82 +2787,82 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Library, Second Floor</key>
-	<val>Firewatch, biblioteka: drugie piçš»ro</val>
+	<val>Firewatch, biblioteka: drugie piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace</key>
-	<val>Firewatch, paè±‰c</val>
+	<val>Firewatch, pa³ac</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Argonian Mission</key>
-	<val>Firewatch, paè±‰c: Poselstwo Argoniaé›Ÿkie</val>
+	<val>Firewatch, pa³ac: Poselstwo Argoniañskie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Audience Chambers</key>
-	<val>Firewatch, paè±‰c: sala audiencyjna</val>
+	<val>Firewatch, pa³ac: sala audiencyjna</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Duchess' Guards' Quarters</key>
-	<val>Firewatch, paè±‰c: komnaty straç©iké—š ksiç¯¹nej</val>
+	<val>Firewatch, pa³ac: komnaty stra¿ników ksiê¿nej</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Duchess' Quarters</key>
-	<val>Firewatch, paè±‰c: komnaty ksiç¯¹nej</val>
+	<val>Firewatch, pa³ac: komnaty ksiê¿nej</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Foyer</key>
-	<val>Firewatch, paè±‰c: wejî¯Šie</val>
+	<val>Firewatch, pa³ac: wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Guard Barracks</key>
-	<val>Firewatch, paè±‰c: koszary straç¯¡</val>
+	<val>Firewatch, pa³ac: koszary stra¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Guard Captain's Quarters</key>
-	<val>Firewatch, paè±‰c: komnaty kapitana straç¯¡</val>
+	<val>Firewatch, pa³ac: komnaty kapitana stra¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Guest Quarters</key>
-	<val>Firewatch, paè±‰c: komnaty dla goî¯Ši</val>
+	<val>Firewatch, pa³ac: komnaty dla goœci</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Guild of Fighters</key>
-	<val>Firewatch, paè±‰c: Gildia Wojowniké—š</val>
+	<val>Firewatch, pa³ac: Gildia Wojowników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Guild of Mages</key>
-	<val>Firewatch, paè±‰c: Gildia Magé—š</val>
+	<val>Firewatch, pa³ac: Gildia Magów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Kitchens</key>
-	<val>Firewatch, paè±‰c: kuchnie</val>
+	<val>Firewatch, pa³ac: kuchnie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Knight Brother's Quarters</key>
-	<val>Firewatch, paè±‰c: komnaty Rycerza Zakonnego</val>
+	<val>Firewatch, pa³ac: komnaty Rycerza Zakonnego</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Servants' Quarters</key>
-	<val>Firewatch, paè±‰c: kwatery sé€ç˜ºy</val>
+	<val>Firewatch, pa³ac: kwatery s³u¿by</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch Palace, Stairs</key>
-	<val>Firewatch, paè±‰c: schody</val>
+	<val>Firewatch, pa³ac: schody</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2872,7 +2872,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Bastion Hill</key>
-	<val>Firewatch, Wzgéze Bastionowe</val>
+	<val>Firewatch, Wzgórze Bastionowe</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2887,17 +2887,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Census and Excise Offices</key>
-	<val>Firewatch, Biuro Spisé—š i Opodatkowania</val>
+	<val>Firewatch, Biuro Spisów i Opodatkowania</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Census and Excise Offices: Basement</key>
-	<val>Firewatch, Biuro Spisé—š i Opodatkowania: piwnica</val>
+	<val>Firewatch, Biuro Spisów i Opodatkowania: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Chatal Mendor: Armorer</key>
-	<val>Firewatch, Chatal Mendor: Pè±‰tnerz</val>
+	<val>Firewatch, Chatal Mendor: P³atnerz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2937,7 +2937,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Hill Bastion</key>
-	<val>Firewatch, bastion na wzgézu</val>
+	<val>Firewatch, bastion na wzgórzu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2947,7 +2947,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Iron-Grip's Weapons</key>
-	<val>Firewatch, Zbrojownia ç–¾laznego Chwytu</val>
+	<val>Firewatch, Zbrojownia ¯elaznego Chwytu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2967,12 +2967,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Merdon Dillmoon's Manor</key>
-	<val>Firewatch, posiadé€™î°« Merdona Dillmoona</val>
+	<val>Firewatch, posiad³oœæ Merdona Dillmoona</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Prison</key>
-	<val>Firewatch, wiç›ienie</val>
+	<val>Firewatch, wiêzienie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -2987,42 +2987,42 @@
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, The Brazen Maiden: Lower Level</key>
-	<val>Firewatch, Wyuzdana Dziewica: dolny pokè±‰d</val>
+	<val>Firewatch, Wyuzdana Dziewica: dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, The Brazen Maiden: Upper Level</key>
-	<val>Firewatch, Wyuzdana Dziewica: gény pokè±‰d</val>
+	<val>Firewatch, Wyuzdana Dziewica: górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, The Howling Noose</key>
-	<val>Firewatch, Zawodzé‰y Wisielec</val>
+	<val>Firewatch, Zawodz¹cy Wisielec</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, The Howling Noose: Basement</key>
-	<val>Firewatch, Zawodzé‰y Wisielec: piwnica</val>
+	<val>Firewatch, Zawodz¹cy Wisielec: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, The Queen's Cutlass</key>
-	<val>Firewatch, Kordelas KréŠowej</val>
+	<val>Firewatch, Kordelas Królowej</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, The Silver Serpent</key>
-	<val>Firewatch, Srebrny Wå˜€</val>
+	<val>Firewatch, Srebrny W¹¿</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, The Silver Serpent: Private Area</key>
-	<val>Firewatch, Srebrny Wå˜€: obszar prywatny</val>
+	<val>Firewatch, Srebrny W¹¿: obszar prywatny</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Firewatch, Towers</key>
-	<val>Firewatch, wieç </val>
+	<val>Firewatch, wie¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3037,32 +3037,32 @@
 <record>
 	<_id>CELL</_id>
 	<key>Forgotten Grotto, Middle Level</key>
-	<val>Zapomniana grota, î¯™odkowy poziom</val>
+	<val>Zapomniana grota, œrodkowy poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Forgotten Grotto, Upper Level</key>
-	<val>Zapomniana grota, gény poziom</val>
+	<val>Zapomniana grota, górny poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Fort Umbermoth</key>
-	<val>Fort Zaç†¤ienia</val>
+	<val>Fort Zaæmienia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Fort Umbermoth, Interior</key>
-	<val>Fort Zaç†¤ienia, wnçš»rze</val>
+	<val>Fort Zaæmienia, wnêtrze</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Fort Umbermoth, Perimeter Wall</key>
-	<val>Fort Zaç†¤ienia, mur obwodowy</val>
+	<val>Fort Zaæmienia, mur obwodowy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Fort Umbermoth, Shrine</key>
-	<val>Fort Zaç†¤ienia, kaplica</val>
+	<val>Fort Zaæmienia, kaplica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3102,7 +3102,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gah Sadrith, Llernele Yantus' Manor</key>
-	<val>Gah Sadrith, posiadé€™î°« Llernele Yantus</val>
+	<val>Gah Sadrith, posiad³oœæ Llernele Yantus</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3132,7 +3132,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gah Sadrith, Tel Darys: Lower Tower</key>
-	<val>Gah Sadrith, Tel Darys: dolne piçš»ra</val>
+	<val>Gah Sadrith, Tel Darys: dolne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3142,7 +3142,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gah Sadrith, Tel Darys: Upper Tower</key>
-	<val>Gah Sadrith, Tel Darys: géne piçš»ra</val>
+	<val>Gah Sadrith, Tel Darys: górne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3172,12 +3172,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Galisa's Pike, Lower Level</key>
-	<val>Szczupak Galisy, dolny pokè±‰d</val>
+	<val>Szczupak Galisy, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Galisa's Pike, Upper Level</key>
-	<val>Szczupak Galisy, gény pokè±‰d</val>
+	<val>Szczupak Galisy, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3187,7 +3187,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Galseah, Deep Caverns</key>
-	<val>Galseah, gå–šbokie jaskinie</val>
+	<val>Galseah, g³êbokie jaskinie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3217,7 +3217,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gilvan-Tidrith Iron Mine</key>
-	<val>Kopalnia ç laza Gilvan-Tidrith</val>
+	<val>Kopalnia ¿elaza Gilvan-Tidrith</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3257,7 +3257,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gol Mok, Salvani Manor</key>
-	<val>Gol Mok, posiadé€™î°« Salvani</val>
+	<val>Gol Mok, posiad³oœæ Salvani</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3292,7 +3292,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, Guard Tower</key>
-	<val>Gorne, wieç˜¸ straç©icza</val>
+	<val>Gorne, wie¿a stra¿nicza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3302,7 +3302,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, Methalas Eves: General Trader</key>
-	<val>Gorne, Methalas Eves: Kupiec towaré—š wszelakich</val>
+	<val>Gorne, Methalas Eves: Kupiec towarów wszelakich</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3312,7 +3312,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, Rendays Manor</key>
-	<val>Gorne, posiadé€™î°« Rendays</val>
+	<val>Gorne, posiad³oœæ Rendays</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3322,7 +3322,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, Sandil Manor</key>
-	<val>Gorne, posiadé€™î°« Sandil</val>
+	<val>Gorne, posiad³oœæ Sandil</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3337,17 +3337,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, The Ghostly Lady, Lower Deck</key>
-	<val>Gorne, Upiorna Dama: dolny pokè±‰d</val>
+	<val>Gorne, Upiorna Dama: dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, The Ghostly Lady, Upper Deck</key>
-	<val>Gorne, Upiorna Dama: gény pokè±‰d</val>
+	<val>Gorne, Upiorna Dama: górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Gorne, Tribunal Chapel</key>
-	<val>Gorne, kaplica Tré©cy</val>
+	<val>Gorne, kaplica Trójcy</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3362,17 +3362,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Gratitude's Wake, Cabin</key>
-	<val>Wdziç’šznoî°«, kajuta</val>
+	<val>Wdziêcznoœæ, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Gratitude's Wake, Lower Levels</key>
-	<val>Wdziç’šznoî°«, dolny pokè±‰d</val>
+	<val>Wdziêcznoœæ, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Gratitude's Wake, Upper Levels</key>
-	<val>Wdziç’šznoî°«, gény pokè±‰d</val>
+	<val>Wdziêcznoœæ, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3392,22 +3392,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Haddadalmalu, Entry</key>
-	<val>Haddadalmalu, wejî¯Šie</val>
+	<val>Haddadalmalu, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Haddadalmalu, Inner Shrine</key>
-	<val>Haddadalmalu, wewnçš»rzna kaplica</val>
+	<val>Haddadalmalu, wewnêtrzna kaplica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Haddadalmalu, Northern Wing</key>
-	<val>Haddadalmalu, pé¦§nocne skrzydé€™</val>
+	<val>Haddadalmalu, pó³nocne skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Haddadalmalu, Southern Wing</key>
-	<val>Haddadalmalu, poé€dniowe skrzydé€™</val>
+	<val>Haddadalmalu, po³udniowe skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3422,17 +3422,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Halaran Camp</key>
-	<val>Obéœ© Halaran</val>
+	<val>Obóz Halaran</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Halaran Camp, Darayn Halaran's Yurt</key>
-	<val>Obéœ© Halaran, jurta Darayna Halarana</val>
+	<val>Obóz Halaran, jurta Darayna Halarana</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Halaran Camp, Rolaam Ulvi's Yurt</key>
-	<val>Obéœ© Halaran, jurta Rolaama Ulvi</val>
+	<val>Obóz Halaran, jurta Rolaama Ulvi</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3442,7 +3442,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Harethim Manor</key>
-	<val>Posiadé€™î°« Harethim</val>
+	<val>Posiad³oœæ Harethim</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3452,7 +3452,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Harrumat Diamond Mine</key>
-	<val>Kopalnia diamenté—š Harrumat</val>
+	<val>Kopalnia diamentów Harrumat</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3542,22 +3542,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Census and Excise Office</key>
-	<val>Helnim, Biuro Spisé—š i Opodatkowania</val>
+	<val>Helnim, Biuro Spisów i Opodatkowania</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Census and Excise Warehouse</key>
-	<val>Helnim, magazyn Biura Spisé—š</val>
+	<val>Helnim, magazyn Biura Spisów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Cervius Veris: General Merchant</key>
-	<val>Helnim, Cervius Veris: Kupiec towaré—š wszelakich</val>
+	<val>Helnim, Cervius Veris: Kupiec towarów wszelakich</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Crystal Flower Inn</key>
-	<val>Helnim, Krysztaé€™wy Kwiat</val>
+	<val>Helnim, Kryszta³owy Kwiat</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3577,12 +3577,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Diamond Mine</key>
-	<val>Helnim, kopalnia diamenté—š</val>
+	<val>Helnim, kopalnia diamentów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Diamond Mine: Packing Room</key>
-	<val>Helnim, kopalnia diamenté—š: pakownia</val>
+	<val>Helnim, kopalnia diamentów: pakownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3597,7 +3597,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Dolthernul Manor</key>
-	<val>Helnim, posiadé€™î°« Dolthernul</val>
+	<val>Helnim, posiad³oœæ Dolthernul</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3667,7 +3667,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Guild of Fighters</key>
-	<val>Helnim, Gildia Wojowniké—š</val>
+	<val>Helnim, Gildia Wojowników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3682,12 +3682,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Helnim Hall: East Empire Company Headquarters</key>
-	<val>Helnim, ratusz: kwatera gå ¯wna Kompanii</val>
+	<val>Helnim, ratusz: kwatera g³ówna Kompanii</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Helnim Hall: Gate Towers</key>
-	<val>Helnim, ratusz: wieç  bramne</val>
+	<val>Helnim, ratusz: wie¿e bramne</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3697,7 +3697,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Helnim Hall: Mages Guild Relay</key>
-	<val>Helnim, ratusz: punkt teleportacyjny Gildii Magé—š</val>
+	<val>Helnim, ratusz: punkt teleportacyjny Gildii Magów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3767,12 +3767,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Militia Headquarters</key>
-	<val>Helnim, siedziba gå ¯wna milicji</val>
+	<val>Helnim, siedziba g³ówna milicji</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Mining Bunkhouse</key>
-	<val>Helnim, sypialnie géniké—š</val>
+	<val>Helnim, sypialnie górników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3792,27 +3792,27 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, North-Western Storage Tower</key>
-	<val>Helnim, pé¦§nocno-zachodnia wieç˜¸ magazynowa</val>
+	<val>Helnim, pó³nocno-zachodnia wie¿a magazynowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Northeast Gatehouse</key>
-	<val>Helnim, pé¦§nocno-wschodnia wartownia</val>
+	<val>Helnim, pó³nocno-wschodnia wartownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Northern Storage Tower</key>
-	<val>Helnim, pé¦§nocna wieç˜¸ magazynowa</val>
+	<val>Helnim, pó³nocna wie¿a magazynowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Old Prison</key>
-	<val>Helnim, stare wiç›ienie</val>
+	<val>Helnim, stare wiêzienie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Peladia Varousha: Armorer</key>
-	<val>Helnim, Peladia Varousha: Pè±‰tnerz</val>
+	<val>Helnim, Peladia Varousha: P³atnerz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3822,12 +3822,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Prison Expansion</key>
-	<val>Helnim, rozbudowa wiç›ienia</val>
+	<val>Helnim, rozbudowa wiêzienia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Saravil's Hangout</key>
-	<val>Helnim, Miejscé—ška Saravila</val>
+	<val>Helnim, Miejscówka Saravila</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3862,7 +3862,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Slums: Miners' Utility Shed</key>
-	<val>Helnim, slumsy: szopa z narzç’ ziami géniczymi</val>
+	<val>Helnim, slumsy: szopa z narzêdziami górniczymi</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3872,7 +3872,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Slums: Missing-Scales' Shack</key>
-	<val>Helnim, slumsy: chata Gubié‰ego-ã„†ski</val>
+	<val>Helnim, slumsy: chata Gubi¹cego-£uski</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3912,7 +3912,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Southeast Gatehouse</key>
-	<val>Helnim, poé€dniowo-wschodnia wartownia</val>
+	<val>Helnim, po³udniowo-wschodnia wartownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3927,7 +3927,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Tel Narrusa: Services</key>
-	<val>Helnim, Tel Narrusa: usé€gi</val>
+	<val>Helnim, Tel Narrusa: us³ugi</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3937,7 +3937,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Tel Narrusa: Upper Hallways</key>
-	<val>Helnim, Tel Narrusa: géne korytarze</val>
+	<val>Helnim, Tel Narrusa: górne korytarze</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3957,12 +3957,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, The Crusader's Valet</key>
-	<val>Helnim, Lokaj Krzyç©wca</val>
+	<val>Helnim, Lokaj Krzy¿owca</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, The Red Drake Inn</key>
-	<val>Helnim, Szkarè±‰tny Smok</val>
+	<val>Helnim, Szkar³atny Smok</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -3972,12 +3972,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Torvel Manor</key>
-	<val>Helnim, posiadé€™î°« Torvel</val>
+	<val>Helnim, posiad³oœæ Torvel</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Helnim, Valtus Alerinus' Manor</key>
-	<val>Helnim, posiadé€™î°« Valtusa Alerinusa</val>
+	<val>Helnim, posiad³oœæ Valtusa Alerinusa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4057,7 +4057,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Hlersis, Abandoned Passage</key>
-	<val>Hlersis, opuszczone przejî¯Šie</val>
+	<val>Hlersis, opuszczone przejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4077,7 +4077,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Hlersis, Hides, Chains, Plates & Blades</key>
-	<val>Hlersis, Skéy, Î¶éuchy, Pancerze i Ostrza</val>
+	<val>Hlersis, Skóry, £añcuchy, Pancerze i Ostrza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4087,7 +4087,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Hlersis, Mine Entrance</key>
-	<val>Hlersis, kopalnia, wejî¯Šie</val>
+	<val>Hlersis, kopalnia, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4102,12 +4102,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Hlersis, Temple</key>
-	<val>Hlersis, ï–®ié–ynia</val>
+	<val>Hlersis, Œwi¹tynia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Hlersis, The Leaking Spore</key>
-	<val>Hlersis, ï–šiekajé‰y Zarodnik</val>
+	<val>Hlersis, Œciekaj¹cy Zarodnik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4117,12 +4117,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Hlorgir Firm-Hand's Shack</key>
-	<val>chata Hlorgira Silnorç˜¯iego</val>
+	<val>chata Hlorgira Silnorêkiego</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Hunted Hound Inn</key>
-	<val>Gospoda Myî¯“iwski Ogar</val>
+	<val>Gospoda Myœliwski Ogar</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4137,7 +4137,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Idaverrano, Dome</key>
-	<val>Idaverrano, kopuè±‰</val>
+	<val>Idaverrano, kopu³a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4152,7 +4152,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Idaverrano, Upper Level</key>
-	<val>Idaverrano, gény poziom</val>
+	<val>Idaverrano, górny poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4242,12 +4242,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ildrim, The Windbreak Hostel</key>
-	<val>Ildrim, schronisko Wiatroè±‰p</val>
+	<val>Ildrim, schronisko Wiatro³ap</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ildrim, The Windbreak Hostel: Dwellings</key>
-	<val>Ildrim, schronisko Wiatroè±‰p: pokoje</val>
+	<val>Ildrim, schronisko Wiatro³ap: pokoje</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4262,7 +4262,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ilvi Ancestral Tomb, Depths</key>
-	<val>Grobowiec rodziny Ilvi, gå–šbiny</val>
+	<val>Grobowiec rodziny Ilvi, g³êbiny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4327,7 +4327,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Indal-ruhn, Raran Manor</key>
-	<val>Indal'ruhn, posiadé€™î°« Raran</val>
+	<val>Indal'ruhn, posiad³oœæ Raran</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4362,7 +4362,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Isle of Arches</key>
-	<val>Wyspa ã„†ké—š</val>
+	<val>Wyspa £uków</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4417,7 +4417,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kaushaspi Egg Mine, Queen's Lair</key>
-	<val>Kopalnia jaj Kaushaspi, leç  kréŠowej</val>
+	<val>Kopalnia jaj Kaushaspi, le¿e królowej</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4447,7 +4447,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Archaeologist Base</key>
-	<val>Kemel-Ze, obéœ© archeologiczny</val>
+	<val>Kemel-Ze, obóz archeologiczny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4477,7 +4477,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Cells of Scarab's Pass</key>
-	<val>Kemel-Ze, Przeå–šcz Skarabeusza</val>
+	<val>Kemel-Ze, Prze³êcz Skarabeusza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4492,12 +4492,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Chimes of the Sculptor</key>
-	<val>Kemel-Ze, Dzwony Rzeî¶ iarza</val>
+	<val>Kemel-Ze, Dzwony RzeŸbiarza</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Chorus of the Maker</key>
-	<val>Kemel-Ze, Ché Stwécy</val>
+	<val>Kemel-Ze, Chór Stwórcy</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4517,7 +4517,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Creeping Vale</key>
-	<val>Kemel-Ze, Peé€ajé‰a Dolina</val>
+	<val>Kemel-Ze, Pe³zaj¹ca Dolina</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4562,7 +4562,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, King's Tomb</key>
-	<val>Kemel-Ze, KréŠewski Grobowiec</val>
+	<val>Kemel-Ze, Królewski Grobowiec</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4602,7 +4602,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Skywatch Gallery</key>
-	<val>Kemel-Ze, Niebiaé›Ÿka Galeria</val>
+	<val>Kemel-Ze, Niebiañska Galeria</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4612,7 +4612,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Tower of Requiem</key>
-	<val>Kemel-Ze, Wieç˜¸ ç•é€™by</val>
+	<val>Kemel-Ze, Wie¿a ¯a³oby</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4622,7 +4622,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kemel-Ze, Veil of Heartfire</key>
-	<val>Kemel-Ze, Zasé€™na Pé€™miennego Serca</val>
+	<val>Kemel-Ze, Zas³ona P³omiennego Serca</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4667,7 +4667,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Chambers of Torment</key>
-	<val>Khalaan, Komnaty Udrç˜¯i</val>
+	<val>Khalaan, Komnaty Udrêki</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4692,17 +4692,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Manor of the Lord</key>
-	<val>Khalaan, Posiadé€™î°« Lorda</val>
+	<val>Khalaan, Posiad³oœæ Lorda</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Mothandil Manor</key>
-	<val>Khalaan, posiadé€™î°« Mothandil</val>
+	<val>Khalaan, posiad³oœæ Mothandil</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Old Landing</key>
-	<val>Khalaan, Stara Przystaï¿½</val>
+	<val>Khalaan, Stara Przystañ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4717,12 +4717,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Rivaal Manor</key>
-	<val>Khalaan, posiadé€™î°« Rivaal</val>
+	<val>Khalaan, posiad³oœæ Rivaal</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Rivaal Manor Basement</key>
-	<val>Khalaan, posiadé€™î°« Rivaal: piwnica</val>
+	<val>Khalaan, posiad³oœæ Rivaal: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4732,22 +4732,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Scorching Vale</key>
-	<val>Khalaan, Palé‰a Dolina</val>
+	<val>Khalaan, Pal¹ca Dolina</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Sewers</key>
-	<val>Khalaan, kanaé€ </val>
+	<val>Khalaan, kana³y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, St. Delyn Plaza</key>
-	<val>Khalaan, plac î¯. Delyna</val>
+	<val>Khalaan, plac œw. Delyna</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Swallowed Passages</key>
-	<val>Khalaan, Poché€™niçš»e Korytarze</val>
+	<val>Khalaan, Poch³oniête Korytarze</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4757,12 +4757,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, The Desolate Tower</key>
-	<val>Khalaan, Opuszczona Wieç˜¸</val>
+	<val>Khalaan, Opuszczona Wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Vedas Manor</key>
-	<val>Khalaan, posiadé€™î°« Vedas</val>
+	<val>Khalaan, posiad³oœæ Vedas</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4772,12 +4772,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Whispering Halls</key>
-	<val>Khalaan, Szepczé‰e Sale</val>
+	<val>Khalaan, Szepcz¹ce Sale</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Khalaan, Wounded Chasm</key>
-	<val>Khalaan, Zraniona Przepaî°«</val>
+	<val>Khalaan, Zraniona Przepaœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4807,12 +4807,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Kisrashallat, Deep Chamber</key>
-	<val>Kisrashallat, sala w gå–šbinach</val>
+	<val>Kisrashallat, sala w g³êbinach</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Kisrashallat, Entry</key>
-	<val>Kisrashallat, wejî¯Šie</val>
+	<val>Kisrashallat, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4877,12 +4877,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Lambinatha, Inner Sepulcher</key>
-	<val>Lambinatha, wewnçš»rzny grobowiec</val>
+	<val>Lambinatha, wewnêtrzny grobowiec</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Lambinatha, Outer Sepulcher</key>
-	<val>Lambinatha, zewnçš»rzny grobowiec</val>
+	<val>Lambinatha, zewnêtrzny grobowiec</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4912,12 +4912,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Llarethi Ancestral Tomb, Secret Hideout</key>
-	<val>Grobowiec rodziny Llarethi, sekretna kryjé—ška</val>
+	<val>Grobowiec rodziny Llarethi, sekretna kryjówka</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Lleris Dalmar's Hideout</key>
-	<val>Kryjé—ška Lleris Dalmar</val>
+	<val>Kryjówka Lleris Dalmar</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4962,7 +4962,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, Bal Gernak's Manor</key>
-	<val>Llothanis, posiadé€™î°« Bal Gernaka</val>
+	<val>Llothanis, posiad³oœæ Bal Gernaka</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4982,7 +4982,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, Erick's Smithy</key>
-	<val>Llothanis, Kuî¶¬ia Ericka</val>
+	<val>Llothanis, KuŸnia Ericka</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4997,7 +4997,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, Llivlo Indalen: Armorer</key>
-	<val>Llothanis, Llivlo Indalen: Pè±‰tnerz</val>
+	<val>Llothanis, Llivlo Indalen: P³atnerz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5012,22 +5012,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, Sevaen Ondyn: Bookseller</key>
-	<val>Llothanis, Sevaen Ondyn: Ksiç’•arz</val>
+	<val>Llothanis, Sevaen Ondyn: Ksiêgarz</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, The Water's Shadow Tavern</key>
-	<val>Llothanis, Cieï¿½ Wody</val>
+	<val>Llothanis, Cieñ Wody</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, Tower Shaft</key>
-	<val>Llothanis, wieç˜¸ szybowa</val>
+	<val>Llothanis, wie¿a szybowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Llothanis, Trivra Andoril's Manor</key>
-	<val>Llothanis, posiadé€™î°« Trivry Andoril</val>
+	<val>Llothanis, posiad³oœæ Trivry Andoril</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5042,17 +5042,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Lumber Camp Overseer's Shack</key>
-	<val>Obéœ© drwali, chata nadzorcy</val>
+	<val>Obóz drwali, chata nadzorcy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Lumber Camp Toolshack</key>
-	<val>Obéœ© drwali, szopa z narzç’ ziami</val>
+	<val>Obóz drwali, szopa z narzêdziami</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Lumber Camp Worker's Shack</key>
-	<val>Obéœ© drwali, chata robotniké—š</val>
+	<val>Obóz drwali, chata robotników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5132,7 +5132,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Manrizache, Entry</key>
-	<val>Manrizache, wejî¯Šie</val>
+	<val>Manrizache, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5162,17 +5162,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Mansurabi, Lava Tunnels</key>
-	<val>Mansurabi, tunele z lawï¿½</val>
+	<val>Mansurabi, tunele z law¹</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Mansurabi, North Tunnels</key>
-	<val>Mansurabi, pé¦§nocne tunele</val>
+	<val>Mansurabi, pó³nocne tunele</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Mansurabi, South Tunnels</key>
-	<val>Mansurabi, poé€dniowe tunele</val>
+	<val>Mansurabi, po³udniowe tunele</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5192,7 +5192,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Marisanibal, Deep Caverns</key>
-	<val>Marisanibal, gå–šbokie jaskinie</val>
+	<val>Marisanibal, g³êbokie jaskinie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5282,7 +5282,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Marog, The Swallow's Nest</key>
-	<val>Marog, Jaské¦§cze Gniazdo</val>
+	<val>Marog, Jaskó³cze Gniazdo</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5352,12 +5352,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Mephalan Vales, Forsaken Shack</key>
-	<val>Dolina Mephalaé›Ÿka, zapomniana chata</val>
+	<val>Dolina Mephalañska, zapomniana chata</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Mephalan Vales, Lost Shack</key>
-	<val>Dolina Mephalaé›Ÿka, zagubiona chata</val>
+	<val>Dolina Mephalañska, zagubiona chata</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5372,7 +5372,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Meralag, Gate Tower</key>
-	<val>Meralag, wieç˜¸ bramna</val>
+	<val>Meralag, wie¿a bramna</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5382,7 +5382,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Meralag, Irietha Manor</key>
-	<val>Meralag, posiadé€™î°« Irietha</val>
+	<val>Meralag, posiad³oœæ Irietha</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5392,7 +5392,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Meralag, Minirath Manor</key>
-	<val>Meralag, posiadé€™î°« Minirath</val>
+	<val>Meralag, posiad³oœæ Minirath</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5402,12 +5402,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Meralag, The Golden Glade</key>
-	<val>Meralag, Zé€™cista Polana</val>
+	<val>Meralag, Z³ocista Polana</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Meralag, Uvelen Manor</key>
-	<val>Meralag, posiadé€™î°« Uvelen</val>
+	<val>Meralag, posiad³oœæ Uvelen</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5497,7 +5497,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Mundrethi Plantation, Manor</key>
-	<val>Plantacja Mundrethi, posiadé€™î°«</val>
+	<val>Plantacja Mundrethi, posiad³oœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5512,17 +5512,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Mundrethi Plantation, Slave Market</key>
-	<val>Plantacja Mundrethi, targ niewolniké—š</val>
+	<val>Plantacja Mundrethi, targ niewolników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Mundrethi Plantation, Workers' House</key>
-	<val>Plantacja Mundrethi, kwatery robotniké—š</val>
+	<val>Plantacja Mundrethi, kwatery robotników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Murahn-Cithal Iron Mine</key>
-	<val>Kopalnia ç laza Murahn-Cithal</val>
+	<val>Kopalnia ¿elaza Murahn-Cithal</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5542,7 +5542,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Mzankh, Sky's Wrath Gallery</key>
-	<val>Mzankh, Galeria Niebiaé›Ÿkiego Gniewu</val>
+	<val>Mzankh, Galeria Niebiañskiego Gniewu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5552,7 +5552,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Mzingthlegfth, Upper Halls</key>
-	<val>Mzingthlegfth, géne sale</val>
+	<val>Mzingthlegfth, górne sale</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5617,12 +5617,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Narcolepsy, Lower Level</key>
-	<val>Narkolepsja, dolny pokè±‰d</val>
+	<val>Narkolepsja, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Narcolepsy, Upper Level</key>
-	<val>Narkolepsja, gény pokè±‰d</val>
+	<val>Narkolepsja, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5652,7 +5652,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Nchazdrumn, Chasm's Head</key>
-	<val>Nchazdrumn, Krawç’ ï¿½ Przepaî¯Ši</val>
+	<val>Nchazdrumn, KrawêdŸ Przepaœci</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5662,7 +5662,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Nchazdrumn, Harvest Caverns</key>
-	<val>Nchazdrumn, Jaskinie ç–¸iw</val>
+	<val>Nchazdrumn, Jaskinie ¯niw</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5672,12 +5672,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Nchazdrumn, Roasting Hall</key>
-	<val>Nchazdrumn, Sala Smaç nia</val>
+	<val>Nchazdrumn, Sala Sma¿enia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Nchazdrumn, Stone Gnaw Gallery</key>
-	<val>Nchazdrumn, Galeria Kamiennej Rzeî¶ y</val>
+	<val>Nchazdrumn, Galeria Kamiennej RzeŸby</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5692,12 +5692,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom Lighthouse, Entrance Hall</key>
-	<val>Nekrom, latarnia: sala wejî¯Šiowa</val>
+	<val>Nekrom, latarnia: sala wejœciowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom Lighthouse, Herothran Manor</key>
-	<val>Nekrom, latarnia: posiadé€™î°« Herothran</val>
+	<val>Nekrom, latarnia: posiad³oœæ Herothran</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5707,22 +5707,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom Lighthouse, Tower</key>
-	<val>Nekrom, latarnia: wieç˜¸</val>
+	<val>Nekrom, latarnia: wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, All Saints' Crematorium</key>
-	<val>Nekrom, Krematorium Wszystkich ï–®içš»ych</val>
+	<val>Nekrom, Krematorium Wszystkich Œwiêtych</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Alma Rula's Retreat</key>
-	<val>Nekrom, Odwré’ Alma Ruli</val>
+	<val>Nekrom, Odwrót Alma Ruli</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Arnesian War Collection</key>
-	<val>Nekrom, Wystawa Wojny Arnesiaé›Ÿkiej</val>
+	<val>Nekrom, Wystawa Wojny Arnesiañskiej</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5742,22 +5742,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Catacombs: Ancient Burial</key>
-	<val>Nekrom, katakumby: staroç¯¡tny grobowiec</val>
+	<val>Nekrom, katakumby: staro¿ytny grobowiec</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Catacombs: Central Passage</key>
-	<val>Nekrom, katakumby: gå ¯wne przejî¯Šie</val>
+	<val>Nekrom, katakumby: g³ówne przejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Catacombs: Deep Vaults</key>
-	<val>Nekrom, katakumby: gå–šbokie krypty</val>
+	<val>Nekrom, katakumby: g³êbokie krypty</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Catacombs: Depths</key>
-	<val>Nekrom, katakumby: gå–šbiny</val>
+	<val>Nekrom, katakumby: g³êbiny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5772,7 +5772,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Catacombs: Lower City Entryway</key>
-	<val>Nekrom, katakumby: przejî¯Šie do dolnego miasta</val>
+	<val>Nekrom, katakumby: przejœcie do dolnego miasta</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5787,7 +5787,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Catacombs: Temple Entryway</key>
-	<val>Nekrom, katakumby: wejî¯Šie do ï–®ié–yni</val>
+	<val>Nekrom, katakumby: wejœcie do Œwi¹tyni</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5797,12 +5797,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Causeway Watch Tower</key>
-	<val>Nekrom, wieç˜¸ straç©icza na grobli</val>
+	<val>Nekrom, wie¿a stra¿nicza na grobli</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Chamber of Artifects</key>
-	<val>Nekrom, Komnata Artefakté—š</val>
+	<val>Nekrom, Komnata Artefaktów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5822,7 +5822,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Crematorium of St. Veloth</key>
-	<val>Nekrom, Krematorium î¯. Velotha</val>
+	<val>Nekrom, Krematorium œw. Velotha</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5852,22 +5852,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Fane of the Ancestors</key>
-	<val>Nekrom, Bazylika Przodké—š</val>
+	<val>Nekrom, Bazylika Przodków</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Fane of the Ancestors: Crucible</key>
-	<val>Nekrom, Bazylika Przodké—š: tygiel</val>
+	<val>Nekrom, Bazylika Przodków: tygiel</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Fane of the Ancestors: Undercroft</key>
-	<val>Nekrom, Bazylika Przodké—š: podziemia</val>
+	<val>Nekrom, Bazylika Przodków: podziemia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Fane of the Ancestors: Vault</key>
-	<val>Nekrom, Bazylika Przodké—š: krypta</val>
+	<val>Nekrom, Bazylika Przodków: krypta</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5882,7 +5882,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Greater Bonewalker Smithy</key>
-	<val>Nekrom, kuî¶¬ia U Potç¯¹nego Truposza</val>
+	<val>Nekrom, kuŸnia U Potê¿nego Truposza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5892,7 +5892,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Hall of Records</key>
-	<val>Nekrom, Sala Zapisé—š</val>
+	<val>Nekrom, Sala Zapisów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5902,7 +5902,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, High Offices</key>
-	<val>Necrom, gå ¯wne biura</val>
+	<val>Necrom, g³ówne biura</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5912,12 +5912,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, House of the Waking-Guides</key>
-	<val>Necrom, Dom Przewodniké—š</val>
+	<val>Necrom, Dom Przewodników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Ieme Rethri: Temple Outfitter</key>
-	<val>Nekrom, Ieme Rethri: krawiec î¯ié–ynny</val>
+	<val>Nekrom, Ieme Rethri: krawiec œwi¹tynny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5932,12 +5932,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Lesser Bonewalker Smithy</key>
-	<val>Nekrom, kuî¶¬ia U Sè±‰bszego Truposza</val>
+	<val>Nekrom, kuŸnia U S³abszego Truposza</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Memorial to the War of the First Council</key>
-	<val>Nekrom, Memoriaï¿½ Wojny Pierwszej Rady</val>
+	<val>Nekrom, Memoria³ Wojny Pierwszej Rady</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5947,12 +5947,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Northern Watchtower</key>
-	<val>Nekrom, pé¦§nocna straç©ica</val>
+	<val>Nekrom, pó³nocna stra¿nica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Ordinator Storage Tower</key>
-	<val>Nekrom, wieç˜¸ magazynowa Straç¯¡ ï–®ié–ynnej</val>
+	<val>Nekrom, wie¿a magazynowa Stra¿y Œwi¹tynnej</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5972,12 +5972,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Refuge of St. Aralor</key>
-	<val>Nekrom, Schronisko î¯. Aralora</val>
+	<val>Nekrom, Schronisko œw. Aralora</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Reliquary of St. Nerevar's Shield-Companion</key>
-	<val>Nekrom, relikwiarz towarzysza broni î¯. Nerevara</val>
+	<val>Nekrom, relikwiarz towarzysza broni œw. Nerevara</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -5992,12 +5992,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Sacellum of St. Llothis</key>
-	<val>Nekrom, Sacellum î¯. Llothisa</val>
+	<val>Nekrom, Sacellum œw. Llothisa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Sacellum of St. Llothis: Shrine</key>
-	<val>Nekrom, Sacellum î¯. Llothisa: kaplica</val>
+	<val>Nekrom, Sacellum œw. Llothisa: kaplica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6007,7 +6007,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Seafarer's Rest Hostel</key>
-	<val>Nekrom, Spoczynek ç–¾glarza</val>
+	<val>Nekrom, Spoczynek ¯eglarza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6017,17 +6017,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Shrine of Safe Waters</key>
-	<val>Nekrom, kaplica Spokojnych Wéš</val>
+	<val>Nekrom, kaplica Spokojnych Wód</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Shrine of Saint Rilms</key>
-	<val>Nekrom, kaplica î¯içš»ej Rilms</val>
+	<val>Nekrom, kaplica œwiêtej Rilms</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Shrine of Sharmat's Debt</key>
-	<val>Nekrom, kaplica Dé€gu Sharmata</val>
+	<val>Nekrom, kaplica D³ugu Sharmata</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6042,32 +6042,32 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Storage Tower</key>
-	<val>Nekrom, wieç˜¸ magazynowa</val>
+	<val>Nekrom, wie¿a magazynowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Temple Courtyard</key>
-	<val>Nekrom, ï–®ié–ynia: dziedziniec</val>
+	<val>Nekrom, Œwi¹tynia: dziedziniec</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Temple Hostel</key>
-	<val>Nekrom, ï–®ié–ynia: schronisko</val>
+	<val>Nekrom, Œwi¹tynia: schronisko</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Temple Library</key>
-	<val>Nekrom, ï–®ié–ynia: biblioteka</val>
+	<val>Nekrom, Œwi¹tynia: biblioteka</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Temple Pathway</key>
-	<val>Nekrom, ï–®ié–ynia: î¯Šieç£¬a</val>
+	<val>Nekrom, Œwi¹tynia: œcie¿ka</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Tenandus' Rare Books</key>
-	<val>Nekrom, Rzadkie Ksiç’•i Tenandus</val>
+	<val>Nekrom, Rzadkie Ksiêgi Tenandus</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6082,7 +6082,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Upper District</key>
-	<val>Nekrom, géne miasto</val>
+	<val>Nekrom, górne miasto</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6092,12 +6092,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Watch Barracks</key>
-	<val>Nekrom, koszary straç¯¡</val>
+	<val>Nekrom, koszary stra¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Waterfront</key>
-	<val>Nekrom, nabrzeç </val>
+	<val>Nekrom, nabrze¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6142,12 +6142,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Nethre-Pulu, Entrance Shack</key>
-	<val>Nethre-Pulu, chata wejî¯Šiowa</val>
+	<val>Nethre-Pulu, chata wejœciowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Nethre-Pulu, Miners' Shack</key>
-	<val>Nethre-Pulu, chata géniké—š</val>
+	<val>Nethre-Pulu, chata górników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6167,32 +6167,32 @@
 <record>
 	<_id>CELL</_id>
 	<key>Nethril Plantation, Guard Tower</key>
-	<val>Plantacja Nethril, wieç˜¸ straç©icza</val>
+	<val>Plantacja Nethril, wie¿a stra¿nicza</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Nethril Plantation, Manor</key>
-	<val>Plantacja Nethril, posiadé€™î°«</val>
+	<val>Plantacja Nethril, posiad³oœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Nethril Plantation, Manor: Third Floor</key>
-	<val>Plantacja Nethril, posiadé€™î°«: trzecie piçš»ro</val>
+	<val>Plantacja Nethril, posiad³oœæ: trzecie piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Nethril Plantation, Manor: Tower</key>
-	<val>Plantacja Nethril, posiadé€™î°«: wieç˜¸</val>
+	<val>Plantacja Nethril, posiad³oœæ: wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Nethril Plantation, Slave Housing</key>
-	<val>Plantacja Nethril, kwatery niewolniké—š</val>
+	<val>Plantacja Nethril, kwatery niewolników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Nethril Plantation, Store Room</key>
-	<val>Plantacja Nethril, skè±‰dzik</val>
+	<val>Plantacja Nethril, sk³adzik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6232,17 +6232,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Norem, Camp</key>
-	<val>Norem, obéœ©</val>
+	<val>Norem, obóz</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Norem, Interior</key>
-	<val>Norem, wnçš»rze</val>
+	<val>Norem, wnêtrze</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Norem, Lair</key>
-	<val>Norem, leç </val>
+	<val>Norem, le¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6307,7 +6307,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Bridge Towers</key>
-	<val>Stare Ebonheart, wieç  mostowe</val>
+	<val>Stare Ebonheart, wie¿e mostowe</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6322,7 +6322,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Customs</key>
-	<val>Stare Ebonheart, Urzé‰… Celny</val>
+	<val>Stare Ebonheart, Urz¹d Celny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6342,7 +6342,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, East Curtain Towers</key>
-	<val>Stare Ebonheart, wschodnie wieç  kurtynowe</val>
+	<val>Stare Ebonheart, wschodnie wie¿e kurtynowe</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6362,12 +6362,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Eastern Watch Barracks</key>
-	<val>Stare Ebonheart, wschodnie koszary Straç¯¡</val>
+	<val>Stare Ebonheart, wschodnie koszary Stra¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Eastern Watchtower</key>
-	<val>Stare Ebonheart, wschodnia straç©ica</val>
+	<val>Stare Ebonheart, wschodnia stra¿nica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6377,7 +6377,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Emercius' Quality Wares</key>
-	<val>Stare Ebonheart, Doskonaè²« Towary Emerciusa</val>
+	<val>Stare Ebonheart, Doskona³e Towary Emerciusa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6397,7 +6397,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Gate Towers</key>
-	<val>Stare Ebonheart, wieç  bramne</val>
+	<val>Stare Ebonheart, wie¿e bramne</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6412,7 +6412,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Grand Chapel of Talos: Towers</key>
-	<val>Stare Ebonheart, Wielka Kaplica Talosa: wieç </val>
+	<val>Stare Ebonheart, Wielka Kaplica Talosa: wie¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6422,92 +6422,92 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Barristers</key>
-	<val>Stare Ebonheart, Gildia Adwokaté—š</val>
+	<val>Stare Ebonheart, Gildia Adwokatów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Barristers: Living Quarters</key>
-	<val>Stare Ebonheart, Gildia Adwokaté—š: kwatery mieszkalne</val>
+	<val>Stare Ebonheart, Gildia Adwokatów: kwatery mieszkalne</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Fighters</key>
-	<val>Stare Ebonheart, Gildia Wojowniké—š</val>
+	<val>Stare Ebonheart, Gildia Wojowników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Fighters: Basement</key>
-	<val>Stare Ebonheart, Gildia Wojowniké—š: piwnica</val>
+	<val>Stare Ebonheart, Gildia Wojowników: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages</key>
-	<val>Stare Ebonheart, Gildia Magé—š</val>
+	<val>Stare Ebonheart, Gildia Magów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Aquarium</key>
-	<val>Stare Ebonheart, Gildia Magé—š: akwarium</val>
+	<val>Stare Ebonheart, Gildia Magów: akwarium</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Basement</key>
-	<val>Stare Ebonheart, Gildia Magé—š: piwnica</val>
+	<val>Stare Ebonheart, Gildia Magów: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Bedroom</key>
-	<val>Stare Ebonheart, Gildia Magé—š: sypialnia</val>
+	<val>Stare Ebonheart, Gildia Magów: sypialnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Cellar</key>
-	<val>Stare Ebonheart, Gildia Magé—š: spiç˜¸rnia</val>
+	<val>Stare Ebonheart, Gildia Magów: spi¿arnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Corridor</key>
-	<val>Stare Ebonheart, Gildia Magé—š: korytarz</val>
+	<val>Stare Ebonheart, Gildia Magów: korytarz</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Entrance Hall</key>
-	<val>Stare Ebonheart, Gildia Magé—š: wejî¯Šie</val>
+	<val>Stare Ebonheart, Gildia Magów: wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Geode</key>
-	<val>Stare Ebonheart, Gildia Magé—š: geoda</val>
+	<val>Stare Ebonheart, Gildia Magów: geoda</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Greenhouse</key>
-	<val>Stare Ebonheart, Gildia Magé—š: szklarnia</val>
+	<val>Stare Ebonheart, Gildia Magów: szklarnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Greenhouse Dome</key>
-	<val>Stare Ebonheart, Gildia Magé—š: kopuè±‰ szklarni</val>
+	<val>Stare Ebonheart, Gildia Magów: kopu³a szklarni</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Half Maze</key>
-	<val>Stare Ebonheart, Gildia Magé—š: poé€™wa labiryntu</val>
+	<val>Stare Ebonheart, Gildia Magów: po³owa labiryntu</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Study</key>
-	<val>Stare Ebonheart, Gildia Magé—š: gabinet</val>
+	<val>Stare Ebonheart, Gildia Magów: gabinet</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Guild of Mages: Top Floor</key>
-	<val>Stare Ebonheart, Gildia Magé—š: najwyçªºze piçš»ro</val>
+	<val>Stare Ebonheart, Gildia Magów: najwy¿sze piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Gul-Ei's Pantry</key>
-	<val>Stare Ebonheart, Spiç˜¸rnia Gul-Ei'a</val>
+	<val>Stare Ebonheart, Spi¿arnia Gul-Ei'a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6537,12 +6537,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Hostel of Stendarr's Mercy</key>
-	<val>Stare Ebonheart, Schronisko Î¶ski Stendarra</val>
+	<val>Stare Ebonheart, Schronisko £aski Stendarra</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Iela Free-Bear's Exotic Weapons</key>
-	<val>Stare Ebonheart, Egzotyczny Orç¯¹ Ieli Wolnej Niedî¶µiedzicy</val>
+	<val>Stare Ebonheart, Egzotyczny Orê¿ Ieli Wolnej NiedŸwiedzicy</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6562,32 +6562,32 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Imperial Archaeological Society: Top Floor</key>
-	<val>Stare Ebonheart, Cesarskie Towarzystwo Archeologiczne: piçš»ro</val>
+	<val>Stare Ebonheart, Cesarskie Towarzystwo Archeologiczne: piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Imperial Guard Command Post</key>
-	<val>Stare Ebonheart, Straï¿½ Cesarska: dowéšztwo</val>
+	<val>Stare Ebonheart, Stra¿ Cesarska: dowództwo</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Imperial Guard Garrison</key>
-	<val>Stare Ebonheart, Straï¿½ Cesarska: koszary</val>
+	<val>Stare Ebonheart, Stra¿ Cesarska: koszary</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Imperial Navy Command Post</key>
-	<val>Stare Ebonheart, Cesarska Marynarka Wojenna: dowéšztwo</val>
+	<val>Stare Ebonheart, Cesarska Marynarka Wojenna: dowództwo</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Imperial Navy Command Post: Tower</key>
-	<val>Stare Ebonheart, Cesarska Marynarka Wojenna: dowéšztwo: wieç </val>
+	<val>Stare Ebonheart, Cesarska Marynarka Wojenna: dowództwo: wie¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Ioclania Manor</key>
-	<val>Stare Ebonheart, posiadé€™î°« Ioclania</val>
+	<val>Stare Ebonheart, posiad³oœæ Ioclania</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6612,12 +6612,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Merxia Vendicci's Manor</key>
-	<val>Stare Ebonheart, posiadé€™î°« Merxii Vendicci</val>
+	<val>Stare Ebonheart, posiad³oœæ Merxii Vendicci</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Merxia Vendicci's Manor: Basement</key>
-	<val>Stare Ebonheart, posiadé€™î°« Merxii Vendicci: piwnica</val>
+	<val>Stare Ebonheart, posiad³oœæ Merxii Vendicci: piwnica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6632,7 +6632,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Neel Gymont's Fine Art</key>
-	<val>Stare Ebonheart, Piç˜¯na Sztuka Neela Gymonta</val>
+	<val>Stare Ebonheart, Piêkna Sztuka Neela Gymonta</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6647,12 +6647,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Niben's Wind: Lower Deck</key>
-	<val>Stare Ebonheart, Wiatr Znad Niben: dolny pokè±‰d</val>
+	<val>Stare Ebonheart, Wiatr Znad Niben: dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Niben's Wind: Upper Deck</key>
-	<val>Stare Ebonheart, Wiatr Znad Niben: gény pokè±‰d</val>
+	<val>Stare Ebonheart, Wiatr Znad Niben: górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6692,12 +6692,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Pride of Narusia: Lower Deck</key>
-	<val>Stare Ebonheart, Duma Narusii: dolny pokè±‰d</val>
+	<val>Stare Ebonheart, Duma Narusii: dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Pride of Narusia: Upper Deck</key>
-	<val>Stare Ebonheart, Duma Narusii: gény pokè±‰d</val>
+	<val>Stare Ebonheart, Duma Narusii: górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6717,12 +6717,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Roran House</key>
-	<val>Stare Ebonheart, dom Rorané—š</val>
+	<val>Stare Ebonheart, dom Roranów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Ruma Soanix's Manor</key>
-	<val>Stare Ebonheart, posiadé€™î°« Rumy Soanix</val>
+	<val>Stare Ebonheart, posiad³oœæ Rumy Soanix</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6732,72 +6732,72 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers</key>
-	<val>Stare Ebonheart, kanaé€ </val>
+	<val>Stare Ebonheart, kana³y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Central</key>
-	<val>Stare Ebonheart, kanaé€ : centrum</val>
+	<val>Stare Ebonheart, kana³y: centrum</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Clandestine Sanctuary</key>
-	<val>Stare Ebonheart, kanaé€ : Tajemne Sanktuarium</val>
+	<val>Stare Ebonheart, kana³y: Tajemne Sanktuarium</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: East</key>
-	<val>Stare Ebonheart, kanaé€ : wschéš</val>
+	<val>Stare Ebonheart, kana³y: wschód</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Eastern Well</key>
-	<val>Stare Ebonheart, kanaé€ : wschodnia studnia</val>
+	<val>Stare Ebonheart, kana³y: wschodnia studnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Maintenance Room</key>
-	<val>Stare Ebonheart, kanaé€ : pomieszczenie techniczne</val>
+	<val>Stare Ebonheart, kana³y: pomieszczenie techniczne</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Thieves' Guild Hideout</key>
-	<val>Stare Ebonheart, kanaé€ : kryjé—ška Gildii Zé€™dziei</val>
+	<val>Stare Ebonheart, kana³y: kryjówka Gildii Z³odziei</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Tower Bridge</key>
-	<val>Stare Ebonheart, kanaé€ : wieç˜¸ mostowa</val>
+	<val>Stare Ebonheart, kana³y: wie¿a mostowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Waste Pit</key>
-	<val>Stare Ebonheart, kanaé€ : î¯Šiek</val>
+	<val>Stare Ebonheart, kana³y: œciek</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: West</key>
-	<val>Stare Ebonheart, kanaé€ : zachéš</val>
+	<val>Stare Ebonheart, kana³y: zachód</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Sewers: Western Well</key>
-	<val>Stare Ebonheart, kanaé€ : zachodnia studnia</val>
+	<val>Stare Ebonheart, kana³y: zachodnia studnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Southern Watchtower</key>
-	<val>Stare Ebonheart, poé€dniowa straç©ica</val>
+	<val>Stare Ebonheart, po³udniowa stra¿nica</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, TEM Princess Morgiah</key>
-	<val>Stare Ebonheart, OCT Ksiç¯¹niczka Morgiah</val>
+	<val>Stare Ebonheart, OCT Ksiê¿niczka Morgiah</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Tail Tales</key>
-	<val>Stare Ebonheart, Opowieî°« na Dobranoc</val>
+	<val>Stare Ebonheart, Opowieœæ na Dobranoc</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6807,12 +6807,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, The Fetcher's Pawn</key>
-	<val>Stare Ebonheart, Pionek Î¶jdaka</val>
+	<val>Stare Ebonheart, Pionek £ajdaka</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, The Moth and Tiger</key>
-	<val>Stare Ebonheart, Tygrys i è®œa</val>
+	<val>Stare Ebonheart, Tygrys i Æma</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6827,27 +6827,27 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, The Perfect Quarrel: Upstairs</key>
-	<val>Stare Ebonheart, Idealna Sprzeczka: piçš»ro</val>
+	<val>Stare Ebonheart, Idealna Sprzeczka: piêtro</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, The Salty Futtocks</key>
-	<val>Stare Ebonheart, Sé€™na Burta</val>
+	<val>Stare Ebonheart, S³ona Burta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, The Skaarling Queen: Cabin</key>
-	<val>Stare Ebonheart, KréŠowa Skaarlingé—š: kajuta</val>
+	<val>Stare Ebonheart, Królowa Skaarlingów: kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, The Skaarling Queen: Lower Deck</key>
-	<val>Stare Ebonheart, KréŠowa Skaarlingé—š: dolny pokè±‰d</val>
+	<val>Stare Ebonheart, Królowa Skaarlingów: dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, The Skaarling Queen: Upper Deck</key>
-	<val>Stare Ebonheart, KréŠowa Skaarlingé—š: gény pokè±‰d</val>
+	<val>Stare Ebonheart, Królowa Skaarlingów: górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6872,17 +6872,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, West Curtain Towers</key>
-	<val>Stare Ebonheart, zachodnie wieç  kurtynowe</val>
+	<val>Stare Ebonheart, zachodnie wie¿e kurtynowe</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Western Watch Barracks</key>
-	<val>Stare Ebonheart, zachodnie koszary Straç¯¡</val>
+	<val>Stare Ebonheart, zachodnie koszary Stra¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Western Watchtower</key>
-	<val>Stare Ebonheart, zachodnia straç©ica</val>
+	<val>Stare Ebonheart, zachodnia stra¿nica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6892,7 +6892,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Yessu Zeddashpalit: Armorer</key>
-	<val>Stare Ebonheart, Yessu Zeddashpalit: Pè±‰tnerz</val>
+	<val>Stare Ebonheart, Yessu Zeddashpalit: P³atnerz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6902,7 +6902,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Old Ebonheart, Zhinjirra's Weavery</key>
-	<val>Stare Ebonheart, Rç˜¯odzieé€™ Zhinjirry</val>
+	<val>Stare Ebonheart, Rêkodzie³o Zhinjirry</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6942,67 +6942,67 @@
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Eastern Tower</key>
-	<val>Plantacja Oran, wschodnia wieç˜¸</val>
+	<val>Plantacja Oran, wschodnia wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Northern Slave Shack</key>
-	<val>Plantacja Oran, pé¦§nocne czworaki</val>
+	<val>Plantacja Oran, pó³nocne czworaki</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Northern Tower</key>
-	<val>Plantacja Oran, pé¦§nocna wieç˜¸</val>
+	<val>Plantacja Oran, pó³nocna wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Oran Manor</key>
-	<val>Plantacja Oran, posiadé€™î°« Oran</val>
+	<val>Plantacja Oran, posiad³oœæ Oran</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Oran Manor: Atrium</key>
-	<val>Plantacja Oran, posiadé€™î°« Oran: atrium</val>
+	<val>Plantacja Oran, posiad³oœæ Oran: atrium</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Oran Manor: Main Tower</key>
-	<val>Plantacja Oran, posiadé€™î°« Oran: gå ¯wna wieç˜¸</val>
+	<val>Plantacja Oran, posiad³oœæ Oran: g³ówna wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Oran Manor: Master Bedroom</key>
-	<val>Plantacja Oran, posiadé€™î°« Oran: gå ¯wna sypialnia</val>
+	<val>Plantacja Oran, posiad³oœæ Oran: g³ówna sypialnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Oran Manor: Private Quarters</key>
-	<val>Plantacja Oran, posiadé€™î°« Oran: prywatne kwaterys</val>
+	<val>Plantacja Oran, posiad³oœæ Oran: prywatne kwaterys</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Oran Manor: Servant Quarters</key>
-	<val>Plantacja Oran, posiadé€™î°« Oran: kwatery sé€ç˜ºy</val>
+	<val>Plantacja Oran, posiad³oœæ Oran: kwatery s³u¿by</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Oran Manor: Vault</key>
-	<val>Plantacja Oran, posiadé€™î°« Oran: krypta</val>
+	<val>Plantacja Oran, posiad³oœæ Oran: krypta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, South-Western Tower</key>
-	<val>Plantacja Oran, poé€dniowo-zachodnia wieç˜¸</val>
+	<val>Plantacja Oran, po³udniowo-zachodnia wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Southern Slave Shack</key>
-	<val>Plantacja Oran, poé€dniowe czworaki</val>
+	<val>Plantacja Oran, po³udniowe czworaki</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Oran Plantation, Southern Tower</key>
-	<val>Plantacja Oran, poé€dniowa wieç˜¸</val>
+	<val>Plantacja Oran, po³udniowa wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7042,7 +7042,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Orelu Plantation, Slave Dwelling</key>
-	<val>Plantacja Orelu, barak niewolniké—š</val>
+	<val>Plantacja Orelu, barak niewolników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7057,7 +7057,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Orphaned Shipwreck, Hold</key>
-	<val>Porzucony wrak, è±‰downia</val>
+	<val>Porzucony wrak, ³adownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7077,7 +7077,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Pahunsabi, Bandit Base</key>
-	<val>Pahunsabi, baza bandyté—š</val>
+	<val>Pahunsabi, baza bandytów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7117,7 +7117,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Paruddma, Hold</key>
-	<val>Paruddma, è±‰downia</val>
+	<val>Paruddma, ³adownia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7132,12 +7132,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Pedivur's Tower</key>
-	<val>Wieç˜¸ Pedivura</val>
+	<val>Wie¿a Pedivura</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Peninsula of Veloth</key>
-	<val>Pé¦§wysep Velotha</val>
+	<val>Pó³wysep Velotha</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7157,17 +7157,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Pioneer's Wake, Lower Level</key>
-	<val>Pobudka Pioniera, dolny pokè±‰d</val>
+	<val>Pobudka Pioniera, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Pioneer's Wake, Upper Level</key>
-	<val>Pobudka Pioniera, gény pokè±‰d</val>
+	<val>Pobudka Pioniera, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Plundered Shack</key>
-	<val>Splé‰…rowana chata</val>
+	<val>Spl¹drowana chata</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7212,7 +7212,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Deram Drelas: Armorer</key>
-	<val>Port Telvannis, Deram Drelas: Pè±‰tnerz</val>
+	<val>Port Telvannis, Deram Drelas: P³atnerz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7247,7 +7247,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Felisel Gavos: Bookseller</key>
-	<val>Port Telvannis, Felisel Gavos: Ksiç’•arz</val>
+	<val>Port Telvannis, Felisel Gavos: Ksiêgarz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7272,12 +7272,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Ilneram Manor</key>
-	<val>Port Telvannis, posiadé€™î°« Ilneram</val>
+	<val>Port Telvannis, posiad³oœæ Ilneram</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Irenam Manor</key>
-	<val>Port Telvannis, posiadé€™î°« Irenam</val>
+	<val>Port Telvannis, posiad³oœæ Irenam</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7312,7 +7312,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Odrethi Manor</key>
-	<val>Port Telvannis, posiadé€™î°« Odrethi</val>
+	<val>Port Telvannis, posiad³oœæ Odrethi</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7357,12 +7357,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Tel Thenim: Lower Tower</key>
-	<val>Port Telvannis, Tel Thenim: dolne piçš»ra</val>
+	<val>Port Telvannis, Tel Thenim: dolne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Tel Thenim: Upper Tower</key>
-	<val>Port Telvannis, Tel Thenim: géne piçš»ra</val>
+	<val>Port Telvannis, Tel Thenim: górne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7372,7 +7372,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, Telvanni Council House: Entrance</key>
-	<val>Port Telvannis, siedziba Rady Telvanni: wejî¯Šie</val>
+	<val>Port Telvannis, siedziba Rady Telvanni: wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7397,7 +7397,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, The Avenue: East Wing</key>
-	<val>Port Telvannis, Aleja: wschodnie skrzydé€™</val>
+	<val>Port Telvannis, Aleja: wschodnie skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7407,7 +7407,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Port Telvannis, The Avenue: West Wing</key>
-	<val>Port Telvannis, Aleja: zachodnie skrzydé€™</val>
+	<val>Port Telvannis, Aleja: zachodnie skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7467,12 +7467,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Raathim Ancestral Tomb, Burial of the Empress</key>
-	<val>Grobowiec rodziny Raathim, Poché—šek Cesarzowej</val>
+	<val>Grobowiec rodziny Raathim, Pochówek Cesarzowej</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Raathim Ancestral Tomb, Hall of Kings Past</key>
-	<val>Grobowiec rodziny Raathim, Sala Minionych KréŠé—š</val>
+	<val>Grobowiec rodziny Raathim, Sala Minionych Królów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7527,7 +7527,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ranyon-ruhn, Catacombs: Inner Sanctum</key>
-	<val>Ranyon'ruhn, katakumby: Wewnçš»rzne Sanktuarium</val>
+	<val>Ranyon'ruhn, katakumby: Wewnêtrzne Sanktuarium</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7557,7 +7557,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ranyon-ruhn, Guard Tower</key>
-	<val>Ranyon'ruhn, wieç˜¸ straç©icza</val>
+	<val>Ranyon'ruhn, wie¿a stra¿nicza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7587,17 +7587,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ranyon-ruhn, Silt Strider Tower</key>
-	<val>Ranyon'ruhn, przystaï¿½ è±‰zika</val>
+	<val>Ranyon'ruhn, przystañ ³azika</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ranyon-ruhn, Temple</key>
-	<val>Ranyon'ruhn, ï–®ié–ynia</val>
+	<val>Ranyon'ruhn, Œwi¹tynia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Ranyon-ruhn, The Dancing Jug</key>
-	<val>Ranyon'ruhn, Taézé‰y Dzban</val>
+	<val>Ranyon'ruhn, Tañcz¹cy Dzban</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7687,12 +7687,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Riverbed Shipwreck: Lower Level</key>
-	<val>Wrak na dnie rzeki, dolny pokè±‰d</val>
+	<val>Wrak na dnie rzeki, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Riverbed Shipwreck: Upper Level</key>
-	<val>Wrak na dnie rzeki, gény pokè±‰d</val>
+	<val>Wrak na dnie rzeki, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7702,22 +7702,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Black Hand Hall</key>
-	<val>Roa Dyr, Sala Czarnej Dé€™ni</val>
+	<val>Roa Dyr, Sala Czarnej D³oni</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Clerks' Hall</key>
-	<val>Roa Dyr, Cech Kleryké—š</val>
+	<val>Roa Dyr, Cech Kleryków</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Craftmen's Hall</key>
-	<val>Roa Dyr, Cech Rzemieî¯“niké—š</val>
+	<val>Roa Dyr, Cech Rzemieœlników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Crossing of Lamps</key>
-	<val>Roa Dyr, Przejî¯Šie Lamp</val>
+	<val>Roa Dyr, Przejœcie Lamp</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7732,7 +7732,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Hall of Judgement</key>
-	<val>Roa Dyr, Sala Osé‰…u</val>
+	<val>Roa Dyr, Sala Os¹du</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7752,7 +7752,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Servants' Hall</key>
-	<val>Roa Dyr, Cech Sé€è•¨cych</val>
+	<val>Roa Dyr, Cech S³u¿¹cych</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7762,22 +7762,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Statesmen's Hall</key>
-	<val>Roa Dyr, Cech Polityké—š</val>
+	<val>Roa Dyr, Cech Polityków</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Tollmen's Hall</key>
-	<val>Roa Dyr, Cech Mytniké—š</val>
+	<val>Roa Dyr, Cech Mytników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Warriors' Hall</key>
-	<val>Roa Dyr, Cech Wojowniké—š</val>
+	<val>Roa Dyr, Cech Wojowników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Roa Dyr, Watchtower</key>
-	<val>Roa Dyr, wieç˜¸ straç©icza</val>
+	<val>Roa Dyr, wie¿a stra¿nicza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7792,7 +7792,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Romithren Monastery, Cloister</key>
-	<val>Klasztor Romithren, kruçŸanek</val>
+	<val>Klasztor Romithren, kru¿ganek</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7817,12 +7817,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Rotten Shipwreck</key>
-	<val>Przegnié€  wrak</val>
+	<val>Przegni³y wrak</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Rotten Shipwreck, Captain's Quarters</key>
-	<val>Przegnié€  wrak, kajuta kapitana</val>
+	<val>Przegni³y wrak, kajuta kapitana</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7847,7 +7847,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sacred Lands Sanctuary</key>
-	<val>Sanktuarium ï–®içš»ych Ziem</val>
+	<val>Sanktuarium Œwiêtych Ziem</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7862,12 +7862,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sadas Plantation, Angon Sadas' Manor</key>
-	<val>Plantacja Sadas, posiadé€™î°« Angona Sadasa</val>
+	<val>Plantacja Sadas, posiad³oœæ Angona Sadasa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Sadas Plantation, Angon Sadas' Manor: Bedroom</key>
-	<val>Plantacja Sadas, posiadé€™î°« Angona Sadasa: sypialnia</val>
+	<val>Plantacja Sadas, posiad³oœæ Angona Sadasa: sypialnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7897,7 +7897,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sadavel Plantation, Manor</key>
-	<val>Plantacja Sadavel, posiadé€™î°«</val>
+	<val>Plantacja Sadavel, posiad³oœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -7952,12 +7952,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sailen, Darys Farming Supplies</key>
-	<val>Sailen, Artykué€  Rolne Darysa</val>
+	<val>Sailen, Artyku³y Rolne Darysa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Sailen, Delvas Manor</key>
-	<val>Sailen, posiadé€™î°« Delvas</val>
+	<val>Sailen, posiad³oœæ Delvas</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8007,7 +8007,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sailen, Rurvyn Manor</key>
-	<val>Sailen, posiadé€™î°« Rurvyn</val>
+	<val>Sailen, posiad³oœæ Rurvyn</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8017,7 +8017,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sailen, Temple</key>
-	<val>Sailen, ï–®ié–ynia</val>
+	<val>Sailen, Œwi¹tynia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8057,7 +8057,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Salvu Manor</key>
-	<val>Posiadé€™î°« Salvu</val>
+	<val>Posiad³oœæ Salvu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8092,7 +8092,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sannisaran Eggmine, Queen's Lair</key>
-	<val>Kopalnia jaj Sannisaran, leç  kréŠowej</val>
+	<val>Kopalnia jaj Sannisaran, le¿e królowej</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8117,7 +8117,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sarvanni Molecrab Farm</key>
-	<val>Sarvanni, farma kretokrabé—š</val>
+	<val>Sarvanni, farma kretokrabów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8157,7 +8157,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sassur-Dari Iron Mine</key>
-	<val>Kopalnia ç laza Sassur-Dari</val>
+	<val>Kopalnia ¿elaza Sassur-Dari</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8252,17 +8252,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sennahanib Camp, Nahariba Mammat's Yurt</key>
-	<val>Obéœ© Sennahanib, jurta Nahariby Mammat</val>
+	<val>Obóz Sennahanib, jurta Nahariby Mammat</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Sennahanib Camp, Nirmimmi Haserua's Yurt</key>
-	<val>Obéœ© Sennahanib, jurta Nirmimmi Haserui</val>
+	<val>Obóz Sennahanib, jurta Nirmimmi Haserui</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Sennahanib Camp, Yannib Nassirasu's Yurt</key>
-	<val>Obéœ© Sennahanib, jurta Yannib Nassirasu</val>
+	<val>Obóz Sennahanib, jurta Yannib Nassirasu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8277,7 +8277,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Serasith Cavern, Entrance</key>
-	<val>Jaskinia Serasith, wejî¯Šie</val>
+	<val>Jaskinia Serasith, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8342,7 +8342,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Shubattu Adamantium Mine, Access Tunnels</key>
-	<val>Kopalnia adamantu Shubattu, dostç˜¼ne tunele</val>
+	<val>Kopalnia adamantu Shubattu, dostêpne tunele</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8352,7 +8352,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Shubattu Adamantium Mine, Main Shaft</key>
-	<val>Kopalnia adamantu Shubattu, gå ¯wny szyb</val>
+	<val>Kopalnia adamantu Shubattu, g³ówny szyb</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8372,12 +8372,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Silted Shipwreck, Lower Level</key>
-	<val>Zamulony wrak, dolny pokè±‰d</val>
+	<val>Zamulony wrak, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Silted Shipwreck, Upper Level</key>
-	<val>Zamulony wrak, gény pokè±‰d</val>
+	<val>Zamulony wrak, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8387,17 +8387,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sinister Shipwreck, Cabin</key>
-	<val>Zé€™wieszczy wrak, kajuta</val>
+	<val>Z³owieszczy wrak, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Sinister Shipwreck, Lower Level</key>
-	<val>Zé€™wieszczy wrak, dolny pokè±‰d</val>
+	<val>Z³owieszczy wrak, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Sinister Shipwreck, Upper Level</key>
-	<val>Zé€™wieszczy wrak, gény pokè±‰d</val>
+	<val>Z³owieszczy wrak, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8417,7 +8417,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sirrilas, Outer Halls</key>
-	<val>Sirrilas, zewnçš»rzne sale</val>
+	<val>Sirrilas, zewnêtrzne sale</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8427,7 +8427,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sirrilas, Shrine of the Webspinner</key>
-	<val>Sirrilas, kaplica Pajç’šzych Nici</val>
+	<val>Sirrilas, kaplica Pajêczych Nici</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8462,22 +8462,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Stalled Shipwreck, Cabin</key>
-	<val>Wrak na mieliî¶¬ie, kajuta</val>
+	<val>Wrak na mieliŸnie, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Stalled Shipwreck, Lower Level</key>
-	<val>Wrak na mieliî¶¬ie, dolny pokè±‰d</val>
+	<val>Wrak na mieliŸnie, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Stalled Shipwreck, Upper Level</key>
-	<val>Wrak na mieliî¶¬ie, gény pokè±‰d</val>
+	<val>Wrak na mieliŸnie, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Subfuscous Cupola</key>
-	<val>Podziemna kopuè±‰</val>
+	<val>Podziemna kopu³a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8487,7 +8487,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Suldun Egg Mine, Queen's Lair</key>
-	<val>Kopalnia jaj Suldun, leç  kréŠowej</val>
+	<val>Kopalnia jaj Suldun, le¿e królowej</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8517,17 +8517,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Swimming Alit, Cabin</key>
-	<val>Pé€ wajé‰y Alit, kajuta</val>
+	<val>P³ywaj¹cy Alit, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Swimming Alit, Lower Level</key>
-	<val>Pé€ wajé‰y Alit, dolny pokè±‰d</val>
+	<val>P³ywaj¹cy Alit, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Swimming Alit, Upper Level</key>
-	<val>Pé€ wajé‰y Alit, gény pokè±‰d</val>
+	<val>P³ywaj¹cy Alit, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8572,7 +8572,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tahvel, Iron Mine</key>
-	<val>Tahvel, kopalnia ç laza</val>
+	<val>Tahvel, kopalnia ¿elaza</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8582,7 +8582,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tahvel, Miners' Shack</key>
-	<val>Tahvel, chata géniké—š</val>
+	<val>Tahvel, chata górników</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8607,17 +8607,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Aranyon, Lower Tower</key>
-	<val>Tel Aranyon, dolne piçš»ra</val>
+	<val>Tel Aranyon, dolne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Aranyon, Mithras' Tower</key>
-	<val>Tel Aranyon, wieç˜¸ Mithrasa</val>
+	<val>Tel Aranyon, wie¿a Mithrasa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Aranyon, Upper Tower</key>
-	<val>Tel Aranyon, géne piçš»ra</val>
+	<val>Tel Aranyon, górne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8647,7 +8647,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Mothrivra, Guard Barracks</key>
-	<val>Tel Mothrivra, koszary straç¯¡</val>
+	<val>Tel Mothrivra, koszary stra¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8657,7 +8657,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Mothrivra, Prison</key>
-	<val>Tel Mothrivra, wiç›ienie</val>
+	<val>Tel Mothrivra, wiêzienie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8667,27 +8667,27 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Mothrivra, Slave Holding</key>
-	<val>Tel Mothrivra, kwatery niewolniké—š</val>
+	<val>Tel Mothrivra, kwatery niewolników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Mothrivra, South Tower: Lower Tower</key>
-	<val>Tel Mothrivra, poé€dniowa wieç˜¸: dolne piçš»ra</val>
+	<val>Tel Mothrivra, po³udniowa wie¿a: dolne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Mothrivra, South Tower: Turret</key>
-	<val>Tel Mothrivra, poé€dniowa wieç˜¸: wieç¯¡czka</val>
+	<val>Tel Mothrivra, po³udniowa wie¿a: wie¿yczka</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Mothrivra, South Tower: Upper Tower</key>
-	<val>Tel Mothrivra, poé€dniowa wieç˜¸: géne piçš»ra</val>
+	<val>Tel Mothrivra, po³udniowa wie¿a: górne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Mothrivra, Storage Tower</key>
-	<val>Tel Mothrivra, wieç˜¸ magazynowa</val>
+	<val>Tel Mothrivra, wie¿a magazynowa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8732,12 +8732,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, Guard Quarters</key>
-	<val>Tel Muthada, kwatery straç¯¡</val>
+	<val>Tel Muthada, kwatery stra¿y</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, Lower Tower</key>
-	<val>Tel Muthada, dolne piçš»ra</val>
+	<val>Tel Muthada, dolne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8757,7 +8757,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, The Note In Your Eye</key>
-	<val>Tel Muthada, Wyryte W Pamiç’ši</val>
+	<val>Tel Muthada, Wyryte W Pamiêci</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8767,12 +8767,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, Upper Hall</key>
-	<val>Tel Muthada, géna sala</val>
+	<val>Tel Muthada, górna sala</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, Upper Tower</key>
-	<val>Tel Muthada, géne piçš»ra</val>
+	<val>Tel Muthada, górne piêtra</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8797,7 +8797,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Oren, Tower</key>
-	<val>Tel Oren, wieç˜¸</val>
+	<val>Tel Oren, wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8822,17 +8822,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Guar Farm</key>
-	<val>Tel Ouada, farma guaré—š</val>
+	<val>Tel Ouada, farma guarów</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Guar Farm: Erdlan Galelan's Shack</key>
-	<val>Tel Ouada, farma guaré—š: chata Erdlana Galelana</val>
+	<val>Tel Ouada, farma guarów: chata Erdlana Galelana</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Guar Farm: Stash Shack</key>
-	<val>Tel Ouada, farma guaré—š: schowek</val>
+	<val>Tel Ouada, farma guarów: schowek</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8842,7 +8842,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Llerar Arantamo: Armorer</key>
-	<val>Tel Ouada, Llerar Arantamo: Pè±‰tnerz</val>
+	<val>Tel Ouada, Llerar Arantamo: P³atnerz</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8852,7 +8852,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Mentorus' Miscellany</key>
-	<val>Tel Ouada, Ré¨œnoî¯Ši Mentorusa</val>
+	<val>Tel Ouada, Ró¿noœci Mentorusa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8862,17 +8862,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Mervis Adryn's House: Storage</key>
-	<val>Tel Ouada, dom Mervisa Adryna: skè±‰dzik</val>
+	<val>Tel Ouada, dom Mervisa Adryna: sk³adzik</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Midaan Manor</key>
-	<val>Tel Ouada, posiadé€™î°« Midaan</val>
+	<val>Tel Ouada, posiad³oœæ Midaan</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Midaan Manor: Master Bedroom</key>
-	<val>Tel Ouada, posiadé€™î°« Midaan: gå ¯wna sypialnia</val>
+	<val>Tel Ouada, posiad³oœæ Midaan: g³ówna sypialnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8882,42 +8882,42 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, The Magic Mudcrab</key>
-	<val>Tel Ouada, Magiczny Krab Bé€™tny</val>
+	<val>Tel Ouada, Magiczny Krab B³otny</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Tower</key>
-	<val>Tel Ouada, wieç˜¸</val>
+	<val>Tel Ouada, wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Tower: East Wing</key>
-	<val>Tel Ouada, wieç˜¸: wschodnie skrzydé€™</val>
+	<val>Tel Ouada, wie¿a: wschodnie skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Tower: Living Area</key>
-	<val>Tel Ouada, wieç˜¸: czï¿½ï¿½ mieszkalna</val>
+	<val>Tel Ouada, wie¿a: czêœæ mieszkalna</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Tower: Lower Quarters</key>
-	<val>Tel Ouada, wieç˜¸: dolne kwatery</val>
+	<val>Tel Ouada, wie¿a: dolne kwatery</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Tower: Rathra's Chambers</key>
-	<val>Tel Ouada, wieç˜¸: komnaty Rathry</val>
+	<val>Tel Ouada, wie¿a: komnaty Rathry</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Tower: Shaft</key>
-	<val>Tel Ouada, wieç˜¸: szyb</val>
+	<val>Tel Ouada, wie¿a: szyb</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tel Ouada, Tower: West Wing</key>
-	<val>Tel Ouada, wieç˜¸: zachodnie skrzydé€™</val>
+	<val>Tel Ouada, wie¿a: zachodnie skrzyd³o</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8942,17 +8942,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Telvanni Library, Eastern Tower: Lower Level</key>
-	<val>Biblioteka Telvanni, wschodnia wieç˜¸: dolny poziom</val>
+	<val>Biblioteka Telvanni, wschodnia wie¿a: dolny poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Telvanni Library, Eastern Tower: Upper Level</key>
-	<val>Biblioteka Telvanni, wschodnia wieç˜¸: gény poziom</val>
+	<val>Biblioteka Telvanni, wschodnia wie¿a: górny poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Telvanni Library, Passageway</key>
-	<val>Biblioteka Telvanni, przejî¯Šie</val>
+	<val>Biblioteka Telvanni, przejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8967,17 +8967,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Telvanni Library, Western Tower</key>
-	<val>Biblioteka Telvanni, zachodnia wieç˜¸</val>
+	<val>Biblioteka Telvanni, zachodnia wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Telvanni Waystation</key>
-	<val>Biblioteka Telvanni, zachodnia wieç˜¸</val>
+	<val>Biblioteka Telvanni, zachodnia wie¿a</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Terendas Gold Mine</key>
-	<val>Kopalnia zé€™ta Terendas</val>
+	<val>Kopalnia z³ota Terendas</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8987,82 +8987,82 @@
 <record>
 	<_id>CELL</_id>
 	<key>Thalotheran Manor</key>
-	<val>Posiadé€™î°« Thalotheran</val>
+	<val>Posiad³oœæ Thalotheran</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Thalotheran Quarry</key>
-	<val>Kamienioé€™m Thalotheran</val>
+	<val>Kamienio³om Thalotheran</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Thalotheran Quarry, Falas Andrano's Shack</key>
-	<val>Kamienioé€™m Thalotheran, chata Falasa Andrano</val>
+	<val>Kamienio³om Thalotheran, chata Falasa Andrano</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Thalotheran Quarry, Miners' Shack</key>
-	<val>Kamienioé€™m Thalotheran, chata kamieniarzy</val>
+	<val>Kamienio³om Thalotheran, chata kamieniarzy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tharonen Manor</key>
-	<val>Posiadé€™î°« Tharonen</val>
+	<val>Posiad³oœæ Tharonen</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Duchess, Cabin</key>
-	<val>Ksiç¯¹na, kajuta</val>
+	<val>Ksiê¿na, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Duchess, Upper Level</key>
-	<val>Ksiç¯¹na, gény pokè±‰d</val>
+	<val>Ksiê¿na, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Duchess. Lower Level</key>
-	<val>Ksiç¯¹na, dolny pokè±‰d</val>
+	<val>Ksiê¿na, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Eternal Voyager, Cabin</key>
-	<val>Wieczny Wç’ rowiec, kajuta</val>
+	<val>Wieczny Wêdrowiec, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Eternal Voyager, Lower Level</key>
-	<val>Wieczny Wç’ rowiec, dolny pokè±‰d</val>
+	<val>Wieczny Wêdrowiec, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Eternal Voyager, Upper Level</key>
-	<val>Wieczny Wç’ rowiec, gény pokè±‰d</val>
+	<val>Wieczny Wêdrowiec, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Inn Between</key>
-	<val>Gospoda W Pé¦§ Drogi</val>
+	<val>Gospoda W Pó³ Drogi</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Northern Wind</key>
-	<val>Pé¦§nocny Wicher</val>
+	<val>Pó³nocny Wicher</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Reckless Maiden, Cabin</key>
-	<val>Lekkomyî¯“na Dziewica, kajuta</val>
+	<val>Lekkomyœlna Dziewica, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Reckless Maiden, Lower Level</key>
-	<val>Lekkomyî¯“na Dziewica, dolny pokè±‰d</val>
+	<val>Lekkomyœlna Dziewica, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>The Reckless Maiden, Upper Level</key>
-	<val>Lekkomyî¯“na Dziewica, gény pokè±‰d</val>
+	<val>Lekkomyœlna Dziewica, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9097,22 +9097,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Thoroughly Looted Shipwreck, Cabin</key>
-	<val>Dokè±‰dnie splé‰…rowany wrak, kajuta</val>
+	<val>Dok³adnie spl¹drowany wrak, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Thoroughly Looted Shipwreck, Lower Level</key>
-	<val>Dokè±‰dnie splé‰…rowany wrak, dolny pokè±‰d</val>
+	<val>Dok³adnie spl¹drowany wrak, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Thoroughly Looted Shipwreck, Upper Level</key>
-	<val>Dokè±‰dnie splé‰…rowany wrak, gény pokè±‰d</val>
+	<val>Dok³adnie spl¹drowany wrak, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tilmeth Manor</key>
-	<val>Posiadé€™î°« Tilmeth</val>
+	<val>Posiad³oœæ Tilmeth</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9142,62 +9142,62 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tomaril Manor</key>
-	<val>Posiadé€™î°« Tomaril</val>
+	<val>Posiad³oœæ Tomaril</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tomaril Manor, Guard Tower, Lower Levels</key>
-	<val>Posiadé€™î°« Tomaril, wieç˜¸ straç©icza: dolne poziomy</val>
+	<val>Posiad³oœæ Tomaril, wie¿a stra¿nicza: dolne poziomy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tomaril Manor, Guard Tower: Upper Levels</key>
-	<val>Posiadé€™î°« Tomaril, wieç˜¸ straç©icza: géne poziomy</val>
+	<val>Posiad³oœæ Tomaril, wie¿a stra¿nicza: górne poziomy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tomaril Manor, Manor House</key>
-	<val>Posiadé€™î°« Tomaril, willa</val>
+	<val>Posiad³oœæ Tomaril, willa</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tomaril Manor, Reception Hall and Slave Quarters</key>
-	<val>Posiadé€™î°« Tomaril, recepcja i kwatery niewolniké—š</val>
+	<val>Posiad³oœæ Tomaril, recepcja i kwatery niewolników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tower of Tel Mothrivra</key>
-	<val>Wieç˜¸ Tel Mothrivra</val>
+	<val>Wie¿a Tel Mothrivra</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tower of Tel Mothrivra, Entrance Hall</key>
-	<val>Wieç˜¸ Tel Mothrivra, wejî¯Šie</val>
+	<val>Wie¿a Tel Mothrivra, wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tower of Tel Mothrivra, Manor</key>
-	<val>Wieç˜¸ Tel Mothrivra, posiadé€™î°«</val>
+	<val>Wie¿a Tel Mothrivra, posiad³oœæ</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tower of Tel Mothrivra, Retainers' Quarters</key>
-	<val>Wieç˜¸ Tel Mothrivra, kwatery Przybocznych</val>
+	<val>Wie¿a Tel Mothrivra, kwatery Przybocznych</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Trapped Shipwreck, Cabin</key>
-	<val>Uwiç›iony wrak, kajuta</val>
+	<val>Uwiêziony wrak, kajuta</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Trapped Shipwreck, Lower Level</key>
-	<val>Uwiç›iony wrak, dolny pokè±‰d</val>
+	<val>Uwiêziony wrak, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Trapped Shipwreck, Upper Level</key>
-	<val>Uwiç›iony wrak, gény pokè±‰d</val>
+	<val>Uwiêziony wrak, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9227,22 +9227,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Black Hand Hall</key>
-	<val>Tur Julan, Sala Czarnej Dé€™ni</val>
+	<val>Tur Julan, Sala Czarnej D³oni</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Crossing of Wings</key>
-	<val>Tur Julan, Przejî¯Šie Skrzydeï¿½</val>
+	<val>Tur Julan, Przejœcie Skrzyde³</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Crossing of Wings: Hall of Judgement</key>
-	<val>Tur Julan, Przejî¯Šie Skrzydeï¿½: Sala Osé‰…u</val>
+	<val>Tur Julan, Przejœcie Skrzyde³: Sala Os¹du</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Crossing of Wings: Waiting Door</key>
-	<val>Tur Julan, Przejî¯Šie Skrzydeï¿½: drzwi poczekalni</val>
+	<val>Tur Julan, Przejœcie Skrzyde³: drzwi poczekalni</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9252,22 +9252,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Servants' Hall</key>
-	<val>Tur Julan, Cech Sé€è•¨cych</val>
+	<val>Tur Julan, Cech S³u¿¹cych</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Servants' Hall: Chambers</key>
-	<val>Tur Julan, Cech Sé€è•¨cych: komnaty</val>
+	<val>Tur Julan, Cech S³u¿¹cych: komnaty</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Servants' Hall: Entry</key>
-	<val>Tur Julan, Cech Sé€è•¨cych: wejî¯Šie</val>
+	<val>Tur Julan, Cech S³u¿¹cych: wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Servants' Hall: Kitchens</key>
-	<val>Tur Julan, Cech Sé€è•¨cych: kuchnie</val>
+	<val>Tur Julan, Cech S³u¿¹cych: kuchnie</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9277,32 +9277,32 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Spire Ascent</key>
-	<val>Tur Julan, Iglica: wejî¯Šie</val>
+	<val>Tur Julan, Iglica: wejœcie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Statesmen's Hall</key>
-	<val>Tur Julan, Cech Polityké—š</val>
+	<val>Tur Julan, Cech Polityków</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Warriors' Hall</key>
-	<val>Tur Julan, Cech Wojowniké—š</val>
+	<val>Tur Julan, Cech Wojowników</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Warriors' Hall: Prison</key>
-	<val>Tur Julan, Cech Wojowniké—š: wiç›ienie</val>
+	<val>Tur Julan, Cech Wojowników: wiêzienie</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Tur Julan, Warriors' Hall: Quarters</key>
-	<val>Tur Julan, Cech Wojowniké—š: kwatery</val>
+	<val>Tur Julan, Cech Wojowników: kwatery</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Turen, Dome</key>
-	<val>Turen, kopuè±‰</val>
+	<val>Turen, kopu³a</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9312,7 +9312,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Turen, Upper Level</key>
-	<val>Turen, gény poziom</val>
+	<val>Turen, górny poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9332,7 +9332,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Ulyn Manor</key>
-	<val>Posiadé€™î°« Ulyn</val>
+	<val>Posiad³oœæ Ulyn</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9342,7 +9342,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Urlis Rock</key>
-	<val>Skaè±‰ Urlisa</val>
+	<val>Ska³a Urlisa</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9372,7 +9372,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Vallen-Dun Eggmine, Lower Level</key>
-	<val>Kopalnia jaj Vallen-Dun, niçªºzy poziom</val>
+	<val>Kopalnia jaj Vallen-Dun, ni¿szy poziom</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9407,7 +9407,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Vathras Plantation, Guard Tower</key>
-	<val>Plantacja Vathras, straç©ica</val>
+	<val>Plantacja Vathras, stra¿nica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9427,7 +9427,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Vathras Plantation, Vathras Manor</key>
-	<val>Plantacja Vathras, posiadé€™î°« Vathras</val>
+	<val>Plantacja Vathras, posiad³oœæ Vathras</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9437,7 +9437,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Velk Camp</key>
-	<val>Obéœ© Velk</val>
+	<val>Obóz Velk</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9492,7 +9492,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Venymlan Deeps</key>
-	<val>Gå–šbiny Venymlan</val>
+	<val>G³êbiny Venymlan</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9517,7 +9517,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Veramus Iron Mine</key>
-	<val>Kopalnia ç laza Veramus</val>
+	<val>Kopalnia ¿elaza Veramus</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9537,7 +9537,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Veremmu, Sewers</key>
-	<val>Veremmu, kanaé€ </val>
+	<val>Veremmu, kana³y</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9547,22 +9547,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Verulas Pass</key>
-	<val>Przeå–šcz Verulas</val>
+	<val>Prze³êcz Verulas</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Verulas Pass, Morag Tong Training Camp</key>
-	<val>Przeå–šcz Verulas, obéœ© treningowy Morag Tong</val>
+	<val>Prze³êcz Verulas, obóz treningowy Morag Tong</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Verulas Pass, Neldam Volothre: Trader</key>
-	<val>Przeå–šcz Verulas, Neldam Volothre: Kupiec</val>
+	<val>Prze³êcz Verulas, Neldam Volothre: Kupiec</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Verulas Pass, Tolvise Seloth's House</key>
-	<val>Przeå–šcz Verulas, dom Tolvise Selotha</val>
+	<val>Prze³êcz Verulas, dom Tolvise Selotha</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9572,7 +9572,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Verulas Pass, Twisted Root</key>
-	<val>Przeå–šcz Verulas, Skrç’šony Korzeï¿½</val>
+	<val>Prze³êcz Verulas, Skrêcony Korzeñ</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9597,7 +9597,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Vhul, Brewers' Hall</key>
-	<val>Vhul, Cech Piwowaré—š</val>
+	<val>Vhul, Cech Piwowarów</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9657,12 +9657,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Vhul, Temple</key>
-	<val>Vhul, ï–®ié–ynia</val>
+	<val>Vhul, Œwi¹tynia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Vhul, The Howling Hound</key>
-	<val>Vhul, Wyjé‰y Ogar</val>
+	<val>Vhul, Wyj¹cy Ogar</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9687,7 +9687,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Vhul, Watcher Cornerclub</key>
-	<val>Vhul, oberç˜¸ U Straç©ika</val>
+	<val>Vhul, ober¿a U Stra¿nika</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9702,7 +9702,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Vlars Manor</key>
-	<val>Posiadé€™î°« Vlars</val>
+	<val>Posiad³oœæ Vlars</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9747,7 +9747,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Wavebreaker Keep, Towers</key>
-	<val>Twierdza Falochron, wieç </val>
+	<val>Twierdza Falochron, wie¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9757,22 +9757,22 @@
 <record>
 	<_id>CELL</_id>
 	<key>Whispered Tenet, Lower Level</key>
-	<val>Wyszeptana Doktryna, dolny pokè±‰d</val>
+	<val>Wyszeptana Doktryna, dolny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Whispered Tenet, Upper Level</key>
-	<val>Wyszeptana Doktryna, gény pokè±‰d</val>
+	<val>Wyszeptana Doktryna, górny pok³ad</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Windbreaker Keep</key>
-	<val>Twierdza Wiatroè±‰p</val>
+	<val>Twierdza Wiatro³ap</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Windbreaker Keep Inner Ruins</key>
-	<val>Twierdza Wiatroè±‰p, wewnçš»rzne ruiny</val>
+	<val>Twierdza Wiatro³ap, wewnêtrzne ruiny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9782,12 +9782,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Windmoth Legion Fort, Interior</key>
-	<val>Fort Wietrzny, wnçš»rze</val>
+	<val>Fort Wietrzny, wnêtrze</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Windmoth Legion Fort, Towers</key>
-	<val>Fort Wietrzny, wieç </val>
+	<val>Fort Wietrzny, wie¿e</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9802,7 +9802,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Yanimmu Iron Mine</key>
-	<val>Kopalnia ç laza Yanimmu</val>
+	<val>Kopalnia ¿elaza Yanimmu</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9822,12 +9822,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Yashazmus, Outer Halls</key>
-	<val>Yashazmus, zewnçš»rzne sale</val>
+	<val>Yashazmus, zewnêtrzne sale</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Yashazmus, Pit of Sacrifice</key>
-	<val>Yashazmus, Dé¦§ Ofiarny</val>
+	<val>Yashazmus, dó³ ofiarny</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9847,7 +9847,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Yrgjol Steelfist's Shack</key>
-	<val>Chata Yrgjola Stalowej Piï¿½ci</val>
+	<val>Chata Yrgjola Stalowej Piêœci</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9867,7 +9867,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Zanammu, Ancient Crypt</key>
-	<val>Zanammu, staroç¯¡tna krypta</val>
+	<val>Zanammu, staro¿ytna krypta</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9907,15 +9907,15 @@
 <record>
 	<_id>CELL</_id>
 	<key>Zuldassur Manor</key>
-	<val>Posiadé€™î°« Zuldassur</val>
+	<val>Posiad³oœæ Zuldassur</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Zuldassur Manor, Basement Ruins</key>
-	<val>Posiadé€™î°« Zuldassur, ruiny piwnicy</val>
+	<val>Posiad³oœæ Zuldassur, ruiny piwnicy</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Zuldassur Manor, Entryway Ruins</key>
-	<val>Posiadé€™î°« Zuldassur, ruiny wejî¯Šia</val>
+	<val>Posiad³oœæ Zuldassur, ruiny wejœcia</val>
 </record>
