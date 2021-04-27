@@ -1352,12 +1352,12 @@
 <record>
 	<_id>CELL</_id>
 	<key>Bisandryon, Gardens</key>
-	<val>Bisandryon, Ogrody</val>
+	<val>Bisandryon, ogrody</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Bisandryon, Private Study</key>
-	<val>Bisandryon, Prywatne Studium</val>
+	<val>Bisandryon, prywatny gabitnet</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8342,7 +8342,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Shubattu Adamantium Mine, Access Tunnels</key>
-	<val>Kopalnia adamantu Shubattu, dostêpne tunele</val>
+	<val>Kopalnia adamantu Shubattu, tunele dostêpowe</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8747,7 +8747,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, Private Study</key>
-	<val>Tel Muthada, prywatne studium</val>
+	<val>Tel Muthada, prywatny gabinet</val>
 </record>
 <record>
 	<_id>CELL</_id>
