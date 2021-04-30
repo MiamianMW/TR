@@ -432,7 +432,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Almas Thirr, Bloodstone Shrine</key>
-	<val>Almas Thirr, kaplica Krwawego Kamienia</val>
+	<val>Almas Thirr, Kaplica Krwawego Kamienia</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -797,7 +797,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Aren Manor, Guardhouse</key>
-	<val>Posiad³oœæ Aren, wartownia</val>
+	<val>Posiad³oœæ Aren, stra¿nica</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -4277,7 +4277,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Impaled Shipwreck</key>
-	<val>Rozbity wrak</val>
+	<val>Przebity wrak</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -6017,17 +6017,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Shrine of Safe Waters</key>
-	<val>Nekrom, kaplica Spokojnych Wód</val>
+	<val>Nekrom, Kaplica Spokojnych Wód</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Shrine of Saint Rilms</key>
-	<val>Nekrom, kaplica œwiêtej Rilms</val>
+	<val>Nekrom, kaplica œw. Rilms</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Necrom, Shrine of Sharmat's Debt</key>
-	<val>Nekrom, kaplica D³ugu Sharmata</val>
+	<val>Nekrom, Kaplica D³ugu Sharmata</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8427,7 +8427,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Sirrilas, Shrine of the Webspinner</key>
-	<val>Sirrilas, kaplica Pajêczych Nici</val>
+	<val>Sirrilas, Kaplica Pajêczych Nici</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8702,7 +8702,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, Alaud Uveran: Gatekeeper</key>
-	<val>Tel Muthada, Alaud Uveran: Portier</val>
+	<val>Tel Muthada, Alaud Uveran: Wartownik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -8752,7 +8752,7 @@
 <record>
 	<_id>CELL</_id>
 	<key>Tel Muthada, Soren Uveran: Gatekeeper</key>
-	<val>Tel Muthada, Soren Uveran: Portier</val>
+	<val>Tel Muthada, Soren Uveran: Wartownik</val>
 </record>
 <record>
 	<_id>CELL</_id>
@@ -9502,17 +9502,17 @@
 <record>
 	<_id>CELL</_id>
 	<key>Veralan Farmhouse</key>
-	<val>Gospodarstwo Veralan</val>
+	<val>Farma Veralan</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Veralan Farmhouse, Bedroom</key>
-	<val>Gospodarstwo Veralan, sypialnia</val>
+	<val>Farma Veralan, sypialnia</val>
 </record>
 <record>
 	<_id>CELL</_id>
 	<key>Veralan Farmhouse, Main Floor</key>
-	<val>Gospodarstwo Veralan, parter</val>
+	<val>Farma Veralan, parter</val>
 </record>
 <record>
 	<_id>CELL</_id>
