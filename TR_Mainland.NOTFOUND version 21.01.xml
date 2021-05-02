@@ -15699,3 +15699,5483 @@
 	<key>your turn</key>
 	<val>twoja kolej</val>
 </record>
+<record>
+	<_id>RNAM</_id>
+	<key>TR_Fact_SyvvitTong^0</key>
+	<val>Cz³onek</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_AimrahIC6_CageDoor</key>
+	<val>Drzwi klatki</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_Aimrah_Sign_Healer</key>
+	<val>Salaru Andalen: Uzdrowicielka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_Ex_Dreynim_Spa_Water_Spray</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act-m2-56-necghostfence</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act-m2-56-necghostfence2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act-m2-56-necswitch</key>
+	<val>Przysiêga wobec przodków</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act-m2-56-necswitch-out</key>
+	<val>Upiorna bariera</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act-m2-56-necswitch2</key>
+	<val>Przysiêga wobec przodków</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_banner_aralor01_refu</key>
+	<val>Schronisko œw. Aralora</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_banner_llothis01_nec</key>
+	<val>Sacellum œw. Llothisa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_banner_nerevar01_relq</key>
+	<val>Relikwiarz œw. Nerevara</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_banner_rilms01_shrine</key>
+	<val>Kaplica œw. Rilms</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_banner_roris01_arnes</key>
+	<val>Wystawa Wojny Arnesiañskiej</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_m2-69_bell</key>
+	<val>Dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_m3-A4_scaffold02-1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_m4-506_button</key>
+	<val>Sekretny przycisk</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_m4-506_ind_pwheel1</key>
+	<val>M³ynek modlitewny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_m4-506_ind_pwheel2</key>
+	<val>M³ynek modlitewny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_act_m4-506_ind_pwheel3</key>
+	<val>M³ynek modlitewny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_armor_AimrahLighthouse</key>
+	<val>Dekoracyjna dreughowa tarcza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_furn_banner_tavern_aimrah</key>
+	<val>Gospoda U ¯eglarza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_furn_banner_tavern_i3-795</key>
+	<val>Ober¿a Spragniony Œwiêtoszek</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_furn_bannerd_books_nec_01</key>
+	<val>Rzadkie Ksiêgi Tenandus</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_furn_bannerd_trader_Gorne</key>
+	<val>Methalas Eves: Towary Wszelakie</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_furn_shrine_Bloodstone</key>
+	<val>Kaplica Krwawego Kamienia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2-309_Banner_Tavern</key>
+	<val>Œciekaj¹cy Zarodnik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2-309_Banner_Trader</key>
+	<val>Golam Danoran: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2-309_Banner_WA</key>
+	<val>Skóry, £añcuchy, Pancerze i Ostrza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2-427-shrine</key>
+	<val>Pomnik Bitwy o Kragenmoor</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_18_banner_goblin</key>
+	<val>Rozeœmiany Goblin: Tawerna</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_CellarStairs_00</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_CellarStairs_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_CellarStairs_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_CellarStairs_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_CellarStairs_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ControlDoor</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ControlPend</key>
+	<val>Wahad³o</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Fan</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Glow_A</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Glow_S</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Glow_V</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_00</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_C00</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_C01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_C02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_MachineFX_C03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_NoTeleport</key>
+	<val>NoTeleport</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Orb</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Relic_A</key>
+	<val>Pukiel w³osów lady Almalexii</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Relic_A_p</key>
+	<val>Pukiel w³osów lady Almalexii</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Relic_S_f_l</key>
+	<val>Koœci nóg Sotha Sila</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Relic_S_f_r</key>
+	<val>Koœci nóg Sotha Sila</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Relic_S_s_l</key>
+	<val>Koœci nóg Sotha Sila</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Relic_S_s_r</key>
+	<val>Koœci nóg Sotha Sila</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Reliquary_A</key>
+	<val>Relikwiarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Reliquary_S</key>
+	<val>Relikwiarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_Reliquary_V</key>
+	<val>Relikwiarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX_2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX_3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX_4</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX_5</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX_6</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX_7</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_StairsFX_8</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_corecollision</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_exhaust</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_exhaust_2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_gear1fx</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_gear2fx</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_gear3fx</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_4</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_4m</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_5</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_6</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_7</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_ghostfx_core</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_grinder</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_grndfx</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_grndfx_2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_loadsavedetect</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_switch</key>
+	<val>Prze³¹cznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_switch_top</key>
+	<val>Prze³¹cznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i2_445_vaultgrate</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-476-Ind_DwrvMatress</key>
+	<val>Krasnoludzki materac</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591-Imp_bannerOE</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act-imp_pitgate</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act-imp_pitgate2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act-imp_tombgate</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_gate1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_gate2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_gate3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_gate4</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_plat1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_plat2</key>
+	<val>Lina</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_rope1</key>
+	<val>Lina</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_i3-591_act_tgspray</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Act_GG_i63</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_BOMuskflAct</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_BO_Baker</key>
+	<val>Piekarnia Ilnori</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_BO_sign_clothier</key>
+	<val>Sklep Odzie¿owy Rocconiusa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FG3_deadconstructs</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_Trigger_A_UG</key>
+	<val>Poluzowany kamieñ</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_Trigger_B_UG</key>
+	<val>Poluzowany kamieñ</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_alch_greeneyes</key>
+	<val>Zielone-Oczy: Aptekarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_arm_Chatal</key>
+	<val>Chatal Mendor: P³atnerz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateI1_bar_01</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateI1_bar_02</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateI2_bar_01</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateI2_bar_02</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateN_bar_01</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateN_bar_02</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateS_bar_01</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gateS_bar_02</key>
+	<val>Belka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_gen_brandir</key>
+	<val>Brandir Zabaal:Towary Wszelakie</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_inn_SilverSerpent</key>
+	<val>Srebrny W¹¿</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_sign_bakery</key>
+	<val>Piekarnia Beletha</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_sign_clothier</key>
+	<val>Fedrin Adlan: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_sign_inn02</key>
+	<val>Kordelas Królowej</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_sign_library01</key>
+	<val>Biblioteka w Firewatch</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_sign_library02</key>
+	<val>Biblioteka w Firewatch</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_sign_nn01</key>
+	<val>Zawodz¹cy Wisielec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_FW_weap_irongrip</key>
+	<val>Orê¿ ¯elaznego Chwytu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GO_books_sevaen</key>
+	<val>Sevaen Ondyn: Ksiêgarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GO_clot_merlador</key>
+	<val>Merlador: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GO_merchant_fara</key>
+	<val>Farasira Sadas: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GO_smith_erick</key>
+	<val>KuŸnia Ericka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GO_smith_llivlo</key>
+	<val>Llivlo Indalen: P³atnerz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GO_tav_water</key>
+	<val>Cieñ Wody</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GS_Bookseller</key>
+	<val>Farel Sadrethi: Ksiêgarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GS_heal_Ferin</key>
+	<val>Ferin Gathi: Uzdrowiciel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GS_serviceplaza</key>
+	<val>Plac handlowy w Gah Sadrith</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_GS_sorc_Vendil</key>
+	<val>Vendil Tras: Czarownik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Ll_ex_Telvban</key>
+	<val>Llothanis</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_NR_CartRide</key>
+	<val>Wózek górniczy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_CHCryst</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_alch_Gali</key>
+	<val>Gali Therinyth: Alchemik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_clot_Calbin</key>
+	<val>Calbin Ragis: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_ench_Turosi</key>
+	<val>Turosi Salvel: Zaklinacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_encha_Cerul</key>
+	<val>Cerul Arnem: Zaklinacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_felis_books</key>
+	<val>Felisel Gavos: Ksiêgarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_pawnbr_llathros</key>
+	<val>Llathros Edri: Lombard</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_smith_Deram</key>
+	<val>Deram Drelas: P³atnerz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_smith_Sendal</key>
+	<val>Sendal Tithres: Miecznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_tav_Lost Crab</key>
+	<val>Zagubiony Krab</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_trader_Aresthi</key>
+	<val>Aresthi Brendu: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_PT_trader_bren</key>
+	<val>Bren Galdis: Towary Wszelakie</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Q50_GO6_Marker</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Q_RangirthAshPit</key>
+	<val>Popielnik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Q_Rangirthsecretwall</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Q_TO_ACK-20act</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Q_Yashazmus_fence</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Q_rangirthswitch</key>
+	<val>Dziwny kinkiet</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_Q_uneleasdeadmarker</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_RR_StriderPub</key>
+	<val>Rozbudzony Obie¿yœwiat</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_RR_StriderShop</key>
+	<val>Z Grzbietu £azika</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_RR_alch_Irele</key>
+	<val>Irele Nathryon: Alchemiczka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_RR_heal_Nevusa</key>
+	<val>Nevusa Lakasyn: Uzdrowicielka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_RR_tav_DancingJug</key>
+	<val>Tañcz¹cy Dzban</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_SilverSerpentBed</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_TO_pawnbr_Mentorus</key>
+	<val>Ró¿noœci Mentorusa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_TO_smith_Llerar</key>
+	<val>Llerar Arantamo: P³atnerz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_TO_tav_Magic Mudcrab</key>
+	<val>Magiczny Krab B³otny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_TO_trader_dralamra</key>
+	<val>Dralamra Morvayn: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_T_grate</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_act_LL_Sign</key>
+	<val>Ród Telvanni: Llothanis</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_act_i2_DrekAct</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_act_sign_BlackOgreInn</key>
+	<val>Czarny Ogr</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_act_sign_JanaLivia_Trader</key>
+	<val>Jana Livia: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_act_sign_UmbridArmor</key>
+	<val>Umbrid Serath: Kowal</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_active_sign_c_guildm</key>
+	<val>Gildia Magów</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_blocked_shack_door</key>
+	<val>Zniszczone drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_ex_RR_roadmarker</key>
+	<val>Ranyon'ruhn</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_furn_imp_flag_01_Bal_Oyra</key>
+	<val>Bal Oyra</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_crank_cent_01</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_crank_cent_02</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_crank_cent_03</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_crank_cent_04</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_crank_door_01</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_steam1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_steam2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_steam3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_steam4</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_lud_watersoundbox</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_platform_02_PT_float</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_ArtifactCounter</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_AttackCart</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_FGNassudanRug</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_FG_JanaMarker</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_FG_pioneers</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_FG_piosteps</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_GuarMarker</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_MalvasMarker</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_PickCart</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_TTShrine1</key>
+	<val>Kaplica Oczyszczenia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_TTShrine2</key>
+	<val>Kaplica na Wyspie £uków</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_q_TTShrine3</key>
+	<val>Kaplica Przezornoœci</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m1_rr_ae_basket_i1-tel</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_324_Rock1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_324_Rock2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_324_Rock3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_AB_ban_clot_Selethi</key>
+	<val>Selethi: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_AB_ban_ench_Geroth</key>
+	<val>Geroth: Zaklinacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_AB_ban_goods_Fevras</key>
+	<val>Sklep Wielobran¿owy Fevrasa Berana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_AB_ban_weapon</key>
+	<val>Miecznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Bthang_doorcrank</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_Arrow</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_Bow</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt07</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt08</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt09</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt10</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt11</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt12</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt13</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt14</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_SkelPt15</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_DrolarManor_Spear</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Dwestatdoor_i2-361-tel</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Ex_endofworld_01</key>
+	<val>Przyl¹dek Smoczego £ba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_ForceField</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_Banner_ench_Ervul</key>
+	<val>Ervul Dranoth: Zaklinacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_Banner_heal_Drithnil</key>
+	<val>Drithnil Virith: Uzdrowiciel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_Banner_pot_Nisirel</key>
+	<val>Mikstury Nisirel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_EEC</key>
+	<val>redirect to new EEC cell</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_apoth_cyertil</key>
+	<val>Cyertil: Aptekarz i Uzdrowiciel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_banner_inn_Racer</key>
+	<val>Gniazdo Skrzekacza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_books_edheldur</key>
+	<val>Bazar Edheldura</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_clot_falkoth</key>
+	<val>Falkoth: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_furn_ernie</key>
+	<val>Ernaius Gelsus: Tapicer</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_jeweller_Dremil</key>
+	<val>Dremil Seniran: Jubiler</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_pawn_aarlen</key>
+	<val>Aarlen Lleranoth: Lombard</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_pawn_valvius</key>
+	<val>Valvius Matius: Lombard</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_sign_alehouse</key>
+	<val>Piwiarnia Mjornira</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_sign_inn_crystal</key>
+	<val>Kryszta³owy Kwiat</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_sign_inn_miner</key>
+	<val>Górnicza Dolina</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_sign_inn_reddragon</key>
+	<val>Szkar³atny Smok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_sign_market</key>
+	<val>Targ w Helnim</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_smith_argul</key>
+	<val>Argul gro-Urgush: Kowal</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_smith_menas</key>
+	<val>Lokaj Krzy¿owca</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_smith_peladia</key>
+	<val>Peladia Varousha: P³atnerz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_trad_lariast</key>
+	<val>Lariast: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_He_trader_cervius</key>
+	<val>Cervius Veris: Towary Wszelakie</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_KL_DGSound_01</key>
+	<val>Sound_Dragonglade</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_KL_akamora_marker_0</key>
+	<val>Akamora</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_KL_banner_bazaar</key>
+	<val>Podziemny bazar</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Ma_ban_market</key>
+	<val>Targ w Marog</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Ma_ban_tav_Swallow</key>
+	<val>Jaskó³cze Gniazdo</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Ma_ban_trad_Tarvel</key>
+	<val>Tarvel Drenith: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Mzankh_Sound_Bubbles</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Mzankh_elec_cast</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Mzankh_junbox</key>
+	<val>Dwemerowa skrzynka rozdzielcza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Mzankh_junbox_uni</key>
+	<val>Dwemerowa skrzynka rozdzielcza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_NEC_Shrine_Lovers</key>
+	<val>Kaplica Kochanków</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Bearing1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Bearing2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Crusher</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Drill</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Elev1Crank</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Elev1CrankDummy</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Elev2Crank</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Elev2CrankDummy</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_KegValve</key>
+	<val>Kranik beczki</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Nchaz_Kiln</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Sound_Machinery</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Sound_Steam</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TM_ban_ench_Var</key>
+	<val>Varden Alvis: Zaklinacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TM_ban_heal_Thel</key>
+	<val>Thelasa Reram: Uzdrowicielka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TM_ban_tav_Note</key>
+	<val>Wyryte W Pamiêci</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TM_ban_trad_Dul</key>
+	<val>Dulam Turith: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TMo_ban_tavern_glass</key>
+	<val>Szklany Puchar</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TelvLib_TeleCheck</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TelvLib_Unde_Waterfall</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_TelvLib_West_Switch</key>
+	<val>Prze³¹cznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Telvanni_Seal</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_VP_act_mephala</key>
+	<val>O³tarz Mephali</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_VP_ban_tav_root</key>
+	<val>Skrêcony Korzeñ</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_Venymlan_switch</key>
+	<val>Prze³¹cznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_Jet_1_i332</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_Jet_2_i332</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_ban_Hlersis</key>
+	<val>Witamy w Hlersis</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_bsteam1_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_bsteam2_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_colapse_sounda_i324</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_colapse_soundb_i324</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_platform0_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_platform1_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_platform2_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_platform3_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_shambalutrap</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_steam1_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_steam2_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_steam3_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_steam4_i327</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_act_tel_sigil_i327</key>
+	<val>Wielki Ród Telvanni</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_active_sign_Helnim_01</key>
+	<val>Handlowe Miasto Helnim</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_altbosara_roadmarker_01</key>
+	<val>Alt Bosara</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_ban_DHP_01</key>
+	<val>Przyl¹dek Smoczego £ba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_banner_trader_Senoril</key>
+	<val>Rathal Senoril: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_cog_i2-383-ind</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_dead_slaughterfish_NP</key>
+	<val>Martwy zêbacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_dead_small_slaughterfish</key>
+	<val>Martwy ma³y zêbacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_dragon_nest</key>
+	<val>Gospoda W Pó³ Drogi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_dwrv_Crank_Stuck</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_dwrv_Lever_Stuck</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_fourcornershrine1</key>
+	<val>Triolit</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_fourcornershrine2</key>
+	<val>Triolit</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_fourcornershrine3</key>
+	<val>Triolit</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_fourcornershrine4</key>
+	<val>Triolit</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_horror_daedra_head</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Azm_Crank</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Azm_Lever1</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Azm_Lever2</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Azm_Sound1</key>
+	<val>Sound_Generator</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Azm_Sound2</key>
+	<val>Sound_Generator</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Azm_Sound3</key>
+	<val>Sound_Machinery</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Bznt_CrankA1</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Bznt_CrankA2</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Bznt_CrankB1</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Bznt_CrankB2</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ChefB_JunBox</key>
+	<val>Dwemerowa skrzynka rozdzielcza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ChefB_Lever</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ChefB_WaterFlow</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ChefB_WaterSpray</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ChefB_WaterSquare</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Chef_Crank</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Chef_Water</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Chun_Lever1</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Chun_Lever2</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Dfz_BridgeCrank</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Dfz_Crank1</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Dfz_Crank2</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Dfz_Lava1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Dfz_Lava2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Dfz_Lava3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_HoLz_Door1a</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_HoLz_Lev1</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_HoLz_Lev2</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_HoR_Crank1</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_HoR_Crank2</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_HoR_Wall</key>
+	<val>Dwemerowa œciana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Kark_lava</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Kark_lev_mix1</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Kark_lev_mix2</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Kark_lev_sphere</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Kark_mix1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Kark_mix2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Kark_sphere</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_Coherer</key>
+	<val>Dwemerowy wykrywacz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_Crank</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_ElecCast</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_Junbox</key>
+	<val>Dwemerowa skrzynka rozdzielcza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_Lever1</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_Lever2</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_LightOff</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_King_ObjPt02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Rend_Crank1</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Rend_Crank2</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Rend_Pipe</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Rend_Wall1</key>
+	<val>Dwemerowa œciana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Rend_Wall2</key>
+	<val>Dwemerowa œciana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_Rend_smoke</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ToLz_Door1a</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ToLz_Lev1</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_ToLz_Lev2</key>
+	<val>Zardzewia³a dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_VoH_Crank1</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_kmlz_VoH_Crank2</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_mk_laughinggoblin</key>
+	<val>Rozeœmiany Goblin: Tawerna</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_necban_alch</key>
+	<val>Leranen Othril: Aptekarka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_necban_beds</key>
+	<val>Œwi¹tynia: schronisko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_necban_drinks</key>
+	<val>Wytchnienie Pielgrzyma</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_necban_outfit</key>
+	<val>Ieme Rethri: Krawiec Œwi¹tynny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_necromshrine</key>
+	<val>Kaplica Pierwszych Osadników</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_18_BaldrahnMark</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_20_ArfilMarker</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_20_longboat</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_20_plank</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_21_CursedDiamond</key>
+	<val>Diament</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_22_Altar</key>
+	<val>O³tarz Kultu Tamriel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_22_SpookySounds</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_26_temisacti</key>
+	<val>Temis Activate JournalScript</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_27_SeranaMark</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_27_fleemark</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_29_AkaGuardAct</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_38_invisiwall</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_38_invisiwall2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_8_InvisActivator</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_A9_2_NedimGhosts</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_A9_5_Aryn_Shrine</key>
+	<val>Rodzinna kaplica rodu Salvarys</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_TTShrine1</key>
+	<val>Kaplica przy Wodogrzmotach</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_TTShrine2</key>
+	<val>Kaplica Samotnoœci</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_q_TTShrine3</key>
+	<val>Kaplica Zrozumienia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m2_rockshrine_1ke</key>
+	<val>B³ogos³awiony Kamieñ</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-138-tri_velothicast</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-512_act_triolith</key>
+	<val>Triolit</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Akatosh</key>
+	<val>O³tarz Akatosha</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Arkay</key>
+	<val>O³tarz Arkaya</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Dibella</key>
+	<val>O³tarz Dibelli</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Julianos</key>
+	<val>O³tarz Julianosa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Kynareth</key>
+	<val>O³tarz Kynareth</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Mara</key>
+	<val>O³tarz Mary</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Stendarr</key>
+	<val>O³tarz Stendarra</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Talos</key>
+	<val>O³tarz Talosa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-649_Altar_Zenithar</key>
+	<val>O³tarz Zenithara</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-770_act_gatecrank</key>
+	<val>Ko³owrót bramy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-770_act_gaterope1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3-770_act_gaterope2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_1912DummyCells</key>
+	<val>(delete in the future)</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_A7_Hound_Inn</key>
+	<val>Gospoda Myœliwski Ogar</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_A7_Roadmarker_Dreynim</key>
+	<val>Dreynim</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_A7_Roadmarker_DreynimSpa</key>
+	<val>Uzdrowisko Dreynim</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_A7_Roadmarker_Seitur</key>
+	<val>Seitur</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_A7_Se_Trader</key>
+	<val>Manus: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_A8_EnamorTavern</key>
+	<val>Delikatny Velk: Tawerna</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_A8_EnamorTrade</key>
+	<val>Dom cechowy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_bookseller</key>
+	<val>Tilresi: Ksiêgarz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_fcloth</key>
+	<val>Dralosa Arethi: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_goods</key>
+	<val>Darane Navur: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_hospice</key>
+	<val>Hospicjum Na Rozdro¿u</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_monast</key>
+	<val>Klasztor œw. Velotha</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_pawn</key>
+	<val>Anmoleth: Krawcowa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_tavern</key>
+	<val>Kulej¹cy Pêdrak</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AT_trader</key>
+	<val>Dralas Vando: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AillijarSpellEffects</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_BarandasTrigger</key>
+	<val>Snoopin' Around Trigger</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_DrumActivator</key>
+	<val>Bêben rytualny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_DrumEffect</key>
+	<val>Sound "Mine": Drum Beat</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_GilaDark</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_GilaDebris</key>
+	<val>Krucha œciana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_GilaRail</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_GilaRatCounter</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_IvonGoneTrigger</key>
+	<val>Ivon Seloth's Missing Trigger</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_LakeSoundEffect</key>
+	<val>Sound Effects for Aimrah</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_LightHDrumPaint</key>
+	<val>Bêben rytualny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_LightHMessage</key>
+	<val>Lighthouse Message Activator</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Aim_ParuddmaTrigger</key>
+	<val>Snoopin' Around Trigger</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AimrahIvonSelothBed</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AimrahWarehouseCrank</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_AimrahWarehouseGate</key>
+	<val>¯elazna krata</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_BannerAimrahInn01</key>
+	<val>Gospoda U ¯eglarza</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_CuriaVaultCrank</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_CuriaVaultGate01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_CuriaVaultGate02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_CuriaVaultGate03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Dm_Fari</key>
+	<val>Fari Niernis: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Dm_Windbreak</key>
+	<val>Schronisko Wiatro³ap</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Dwepuz_fit1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Dwepuz_fit2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Dwepuz_fit3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Dwepuz_fit4</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_ET22_bed</key>
+	<val>Zapleœnia³e ³ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonT_GhostActivator</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegHQButton01</key>
+	<val>Przycisk</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegHQFlag</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionChain01</key>
+	<val>Mechanizm miecha</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail01</key>
+	<val>Wie¿a z Ebonu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail02</key>
+	<val>Firewatch</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail03</key>
+	<val>Fort Jastrzêbi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail04</key>
+	<val>Fort Ancylis</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail05</key>
+	<val>Fort Darius</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail06</key>
+	<val>Fort Lutni</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail07</key>
+	<val>Fort Œnie¿ny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail08</key>
+	<val>Fort Zaæmienia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail09</key>
+	<val>Fort Wietrzny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail10</key>
+	<val>Twierdza Cephorad</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail11</key>
+	<val>Prze³êcz Septimów</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail12</key>
+	<val>Prze³êcz Cienia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerLegionNail13</key>
+	<val>Fort Ognia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerPrisonCrank</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerPrisonHurt</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_EbonTowerPrisonSpike</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Idav_ChairM_Float_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_10_Fire40_Sound</key>
+	<val>Fire Sound 40</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_10_Heart_Sound</key>
+	<val>Blackened Heart Sound</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Almalexia_Statue</key>
+	<val>Pos¹g Almalexii</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Amb_Sound</key>
+	<val>Khalaan Amb Sound</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_DaedricMine</key>
+	<val>Mina zbli¿eniowa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Dremora_Summon</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Editor_Box_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Editor_Box_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Fountain</key>
+	<val>Fontanna Szeptów</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Int_ExSound</key>
+	<val>Khalaan Ambient</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_No_Teleport</key>
+	<val>No Teleport</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Shrine_Inactive</key>
+	<val>Kaplica Mi³osierdzia Almalexii</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_Sky_Act</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_p_Bed_04</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_p_Bed_05</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_p_Bed_14</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_p_Bed_15</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_r_Bed_06</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Kha_r_Bed_18</key>
+	<val>£ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Me_GoldenGlade</key>
+	<val>Z³ocista Polana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CatacombsStone</key>
+	<val>Wejœcie do starych katakumb</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultActDagger01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultActDagger02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultButton02</key>
+	<val>Podnieœ pod³ogê</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultDust</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultFloor</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultHole01</key>
+	<val>Dziura w pod³odze</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultHole02</key>
+	<val>Dziura w pod³odze</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultInscrStone</key>
+	<val>Kamieñ z inskrypcj¹</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultMagicRock01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_CuriaVaultSound01</key>
+	<val>Sound</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignDres</key>
+	<val>Rzecznik Rodu Dres</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignHlaalu</key>
+	<val>Rzecznik Rodu Hlaalu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignIndoril</key>
+	<val>Rzecznik Rodu Indoril</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignJustice</key>
+	<val>Dekanat Sprawiedliwoœci</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignRedoran</key>
+	<val>Rzecznik Rodu Redoran</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignTelvanni</key>
+	<val>Rzecznik Rodu Telvanni</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignTemple</key>
+	<val>Rzecznik Œwi¹tyni</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Curia_SignTreasury</key>
+	<val>Dekanat Skarbu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Fentus4Cart</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_Fentus4Sack01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_AstienBox</key>
+	<val>Astien Lothaire</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow10</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow4</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow5</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow6</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow7</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow8</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_BedroomPillow9</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_FlyingChair</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_FlyingChairFly</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_GeodeCryst</key>
+	<val>Kryszta³</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_HalfMazePainting</key>
+	<val>Obraz Nafaalilargusa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_HalfMazeWall1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_HalfMazeWall2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_MissaGreet</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_PuzzleKingBed1</key>
+	<val>Król £ó¿ek</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_PuzzleKingBed2</key>
+	<val>Król £ó¿ek</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_PuzzleKingBed3</key>
+	<val>Król £ó¿ek</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_PuzzleKingBed4</key>
+	<val>Król £ó¿ek</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_PuzzleKingBed5</key>
+	<val>Król £ó¿ek</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_StudyTrap1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_StudyTrap2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_MG_StudyTrap3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_RaathimTeleportDisable</key>
+	<val>Raathim Tomb Teleport Disabler</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_SewerfolkInscrStone</key>
+	<val>Kamieñ z inskrypcj¹</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_AntioDeadChecker</key>
+	<val>Antio Death Checker</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_Blockade</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_CollapsedRocks</key>
+	<val>Zawalisko skalne</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_DummyCrank</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_DungeonBlock02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat07</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat08</key>
+	<val>"Okup za Cesarzow¹"</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat09</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat10</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_FentusBoat11</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_KatariahDisplay01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_KatariahDisplay02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_KatariahDisplay03</key>
+	<val>Kamieñ z inskrypcj¹</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_KatariahInn</key>
+	<val>Thieves Guild Quest Activator</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_MaskChecker</key>
+	<val>Death Mask Checker</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_RaathimBlock</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_RaathimUndead</key>
+	<val>Raathim Tomb Undead Enabler</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_SaltyBottle01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_SaltyBottle02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_TombGate01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_TombGate02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TG_TombGate03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TarhielManager</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_TiberDaggerStone</key>
+	<val>Kamieñ z inskrypcj¹</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_VaultMalDevice01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_VaultMalDevice02</key>
+	<val>Wy³¹czona aparatura</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_VivecDaggerStone</key>
+	<val>Kamieñ z inskrypcj¹</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_Repair</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_bkshelf</key>
+	<val>Zniszczony rega³</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_block01</key>
+	<val>Poluzowany kamienny blok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_block02</key>
+	<val>Poluzowany kamienny blok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_block03</key>
+	<val>Poluzowany kamienny blok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_pillar</key>
+	<val>Zawalona kolumna</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_plat01</key>
+	<val>Zniszczona platforma</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_plat02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_rail01</key>
+	<val>S³upek zabezpieczaj¹cy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_rail02</key>
+	<val>S³upek zabezpieczaj¹cy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_rubble01</key>
+	<val>Gruzowisko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_rubble02</key>
+	<val>Gruzowisko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_ETCensus_rubble03</key>
+	<val>Gruzowisko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_bell</key>
+	<val>Cesarski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_act_chapel_sound</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_chapel_sound</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_legarmoryfire_act</key>
+	<val>fire activator</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_patrol_boat</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_patrol_chair</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_patrol_oar</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_plaza_spout_uni</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_plaza_spray_uni</key>
+	<val>Sound_MournSpray</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_q_merchantboat</key>
+	<val>£ódŸ</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_raathim_tomb_crank</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_alchemy_01</key>
+	<val>Zacne Mikstury Narusyi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_alessia</key>
+	<val>Matka Alessia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_arms_01</key>
+	<val>Yessu Zeddashpalit: P³atnerz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_arms_02</key>
+	<val>Arnulf: Kowal</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_bank_01</key>
+	<val>Prywatny Bank Briricca</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_books_01</key>
+	<val>Opowieœæ na Dobranoc</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_clothier_02</key>
+	<val>Yaguz gro-Dhaluk: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_clothier_03</key>
+	<val>Rêkodzie³o Zhinjirry</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_clothing_01</key>
+	<val>Imeric Geordaine: Krawiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_emaroc</key>
+	<val>Wypieki Emaroca Harquarta</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_goods_01</key>
+	<val>Redgardzkie Towary Hamal</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_goods_02</key>
+	<val>Luksusowe Towary Anjzhirry</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_goods_03</key>
+	<val>Piêkna Sztuka Neela Gymonta</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_goods_04</key>
+	<val>Pionek £ajdaka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_goods_05</key>
+	<val>Doskona³e Towary Emerciusa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_goods_06</key>
+	<val>Sosnowe Przysmaki</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_goods_07</key>
+	<val>Orto Rumaria: Krawiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_gul-ei</key>
+	<val>Spi¿arnia Gul-Ei'a</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_inn_02</key>
+	<val>Tygrys i Æma</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_inn_03</key>
+	<val>S³ona Burta</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_inn_04</key>
+	<val>Cesarzowa Katariah</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_magic_01</key>
+	<val>Mistyczne Emporium Wayriana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_magic_02</key>
+	<val>Yuaile Phyroc: Zaklinaczka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_potions_01</key>
+	<val>Eliksiry Unaarie</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_weapons_01</key>
+	<val>Egzotyczny Orê¿ Ieli</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_weapons_02</key>
+	<val>Idealna Sprzeczka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_sign_c_weapons_03</key>
+	<val>Eurilon: Miecznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_OE_wastepitplat01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Propylon_Khalaan</key>
+	<val>Portyk Khalaan</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_RD_DaeBarrier</key>
+	<val>Szesnasta bariera</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_Sa_skiff</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_StendarrHauntSound01</key>
+	<val>Sound_Spirit_Whisper00</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_StendarrHauntSound02</key>
+	<val>Sound_Haunted00</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_StendarrHauntSound03</key>
+	<val>Sound_Spirit_Whisper00</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_StendarrHauntSound04</key>
+	<val>Sound_Haunted00</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_StendarrHauntSound05</key>
+	<val>Sound_Haunted00</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_TT_AddamarysGrave</key>
+	<val>P³ytki grób</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_TT_Illene1_ChaseCheck</key>
+	<val>Llevari's Chase Check</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_TT_RIP_garvsteleport</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_TheRiftCaster</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_OE_maingate_l</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_OE_maingate_u</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_TurJulan_GateCrank</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_raathim_plaque</key>
+	<val>Sarkofag Katariah Septim</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_raathim_ring01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_raathim_ring02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_raathim_sarcophagus</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_raathim_smoke</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_sephen_guardian</key>
+	<val>Pos¹g Opiekuna</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_sign_sailenclothier</key>
+	<val>Llonise Fovalith: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_act_sign_sailenoutfitter</key>
+	<val>Golveso Darys: Lombard</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_alchemist_i3-58-ind</key>
+	<val>Ilmyna Adas: Alchemiczka</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_ashmire_i3-128-ind</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_asylum_i3-58-ind</key>
+	<val>Dyspozytornia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_bookseller_i3-58-ind</key>
+	<val>Najró¿niejsze Ksi¹¿ki Celdory</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_chapeldoor1_i3-591-Imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_chapeldoor2_i3-591-Imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_chapeldoor3_i3-591-Imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_chapeldoor4_i3-591-Imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_chapeldoor5_i3-591-Imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_chapeldoorhrt_i3-591-Imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_chapelsmoke_i3-591-Imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_clothier_i3-58-ind</key>
+	<val>Llevas Forothram: Sukiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_cot_i3-591-imp</key>
+	<val>Stare ³ó¿ko</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_crank10_i3-591-imp</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_crank4_i3-591-imp</key>
+	<val>Ko³owrót od kraty szybu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_crank6_i3-591-imp</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_crank9_i3-591-imp</key>
+	<val>Korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_crank_i3-591-imp</key>
+	<val>Zardzewia³a korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_customsbanner</key>
+	<val>Urz¹d Celno-Skarbowy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dispensary_i3-58-ind</key>
+	<val>Ogród botaniczny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk00</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk10</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk11</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk12</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk13</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk14</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk20</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk21</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk22</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk23</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk24</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk30</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk31</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk32</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk33</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk34</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk40</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk41</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk42</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk43</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_blk44</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_brk</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_brklev</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr00</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr01</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr02</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr03</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr04</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr10</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr11</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr12</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr13</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr14</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr20</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr21</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr22</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr23</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr24</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr30</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr31</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr32</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr33</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr34</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr40</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr41</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr42</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr43</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_cr44</key>
+	<val>Krasnoludzka korba</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_doorleft</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_doorright</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_golever</key>
+	<val>Krasnoludzka dŸwignia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_dwepuz_win</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_ex_ashl_z_banner1</key>
+	<val>Zagraniczne Drobiazgi Cirtiel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_ex_ashl_z_banner2</key>
+	<val>Zagraniczne Drobiazgi Cirtiel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_fall_room</key>
+	<val>Waterfall Room</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_falsewall_i3-472-ind</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_healer_i3-58-ind</key>
+	<val>Edras Dalis: Uzdrowiciel</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i3-131_soundsteam</key>
+	<val>Sound_Steam</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i3-591-imp_scum1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i3-591-imp_scum2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i3-591_act_ring</key>
+	<val>Zardzewia³y uchwyt</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i3-591_act_sconce</key>
+	<val>Kinkiet</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i470_deadsconce</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i589_BlockedDoor</key>
+	<val>Drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i589_ButtonC</key>
+	<val>Przycisk</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i589_Claw1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i589_Claw2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_i589_Claw2A</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_inn_i3-58-ind</key>
+	<val>Ober¿a Kulej¹cy Pêdrak</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_kaladasshrine_i3-591-imp</key>
+	<val>Kaplica œw. Kaladasa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_leader_i3-453-aun</key>
+	<val>Grobowiec genera³a Thadasa Ra'Athima</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_leyawiinstone_i3-591-imp</key>
+	<val>Kamieñ z inskrypcj¹</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_oe_act_magic_heapofstraws</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_oe_act_magic_wagon_of_hay</key>
+	<val>Wóz z sianem</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_oe_act_tower_fall</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_oe_boat</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_pawnshop_i3-58-ind</key>
+	<val>Sovos Ramaleth: Lombard</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_3_VaultWatcher</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_3_chair</key>
+	<val>Krzes³o</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_Kha_Bell1</key>
+	<val>Indoriliañski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_Kha_Bell2</key>
+	<val>Indoriliañski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_Kha_Bell3</key>
+	<val>Indoriliañski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_Kha_Bell4</key>
+	<val>Indoriliañski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_Kha_Bell5</key>
+	<val>Indoriliañski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_Kha_Bell6</key>
+	<val>Indoriliañski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_Kha_Bell7</key>
+	<val>Indoriliañski dzwon</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_OE_MG_Dremora</key>
+	<val>Dremora</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_OE_TheftCygnus</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_OE_Urien_crate</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_TheRiftBarrier</key>
+	<val>Magiczna bariera</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_TheRiftCollisionWall</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_TheRiftFog</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_TheRiftFurn2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_TheRiftPortal</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_TheRiftWaterfall</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_q_fiendwhisper</key>
+	<val>sound_fiendwhisper</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_secret_i3-472-ind</key>
+	<val>Dziwny przycisk</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_sewerruin_i3-591-imp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_silentsteam_i3-138-tri</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_smith_i3-58-ind</key>
+	<val>Adosl Drinith: Kowal</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m3_trader_i3-58-ind</key>
+	<val>Alonisea Daynil: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4-491_act_sound_steam</key>
+	<val>Sound_Steam</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4-519_act_stonedoor1</key>
+	<val>Kamienny blok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4-519_act_stonedoor2</key>
+	<val>Kamienny blok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4-519_act_stonedoor3</key>
+	<val>Kamienny blok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_Floating_Bench_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_Floating_Chair_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_Floating_Table10</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_Floating_Table_05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_Indal-ruhn_Trader</key>
+	<val>Rolis Hlor: Kupiec</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_LlorisaAIEffects</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_Q_EmmurbalpituActivator</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_TJ_Court_Collision</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_TJ_Court_GFence</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_TJ_Court_Lectern</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_TJ_GhostFence</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_TJ_Sound_HauntedChoir</key>
+	<val>Haunted Choir</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_TJ_web00</key>
+	<val>Sieæ</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_act_pull_rope</key>
+	<val>Lina</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_act_pull_rope2</key>
+	<val>Lina</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_act_rats_platform</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_act_rats_platform2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_deadsconce10_i4-227-hla</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_immetarca_walkway</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_oran_plantation_banner</key>
+	<val>Ród Hlaalu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_vys-assanud_aralor_shrine</key>
+	<val>Uszkodzona kaplica œw. Aralora</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m4_wil_HautharOMAct</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_08</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_14</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_15</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_17</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ai_rock_18</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_bc_grass_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_burgg04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_burgg05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_ent_gg_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_grassplane</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_rocks_ai_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_rocks_ai_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_rocks_ai_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_rocks_ai_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA0_rowboat</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_2_pole_01b</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_2_stud01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_4_brick01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_4_brick02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_4_cart</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_4_plank_pile</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_4_scaffold01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_4ex_stool_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_base_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_brick01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_brick02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_dock_steps01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_dsteps_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_ex_stool_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_hk_ir_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_house01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_house03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_plank_pile</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_pole_01b</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_railing_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_railing_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_scaffold03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_struc01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_struc02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_stud01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_wall_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA1_wood01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_ai_rock_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_ai_rock_08</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_ai_rock_14</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_bc_grass_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_burgg04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_ent_gg_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_grassplane</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_rocks_ai_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_rocks_ai_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_rocks_ai_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_shack_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_shack_05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_shack_stp</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_shack_stp2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_0_spartium01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_3_ex_stool_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_3_plat_cent</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_3_plat_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_3_plat_lrg</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_3_rowboat</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_3_stud01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_b_22</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_b_24</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_longboat</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_pole_01b</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_railing_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA2_railing_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_base_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_brick01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_brick02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_crane_middle_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_craneplatsml</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_dsteps_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_hk_ir_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_plank03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_plank04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_plat_lrg</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_pole_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_scaffold01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_scaffold03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_struc01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_struc03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_stud01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_wall_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA3_wood01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_ai_rock_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_ai_rock_08</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_ai_rock_14</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_ai_rock_15</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_bc_grass_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_burgg04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_burgg05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_ent_gg_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_grassplane</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_rocks_ai_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_rocks_ai_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_rocks_ai_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_0_rocks_ai_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_b_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_b_13</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_b_15</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_bench_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_bridge_07</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_crane_middle_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_dock_steps01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_ex_stool_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_longboat</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_plank03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_pole_01b</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_signpost_banner</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_wall_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_wall_gt1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_wall_gt3</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA4_wallcrv_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_base_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_brick01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_brick02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_cart</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_crane_middle_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_crane_small_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_craneplatsml</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_crt_open_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_doorjamb</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_dsteps_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_ex_stool_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_halfbarrel01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_house03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_in_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_plank03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_plank04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_plank_pile</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_plat_lrg</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_scaffold03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_shack_stp2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_struc01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_struc02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_struc03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_stud01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_wall_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA5_wood01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_ai_rock_05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_ai_rock_08</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_ai_rock_09</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_ai_rock_12</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_ai_rock_14</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_ai_rock_15</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_bc_grass_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_burgg05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_ent_gg_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_grassplane</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_rocks_ai_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_0_rocks_ai_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_ai_rock_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_ai_rock_14</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_ai_rock_17</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_b_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_b_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_b_09</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_b_13</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_b_15</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_b_23</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_b_27</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_base_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_base_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_bc_grass_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_bench_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_bkshelf</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_bridge_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_bridge_05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_bridge_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_bridge_07</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_buttress_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_cart</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_chair_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_cutboard</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_dock_steps01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_fence_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_fence_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_fishnet02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_furn_irod_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_grassplane</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_guarskin_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_halfbarrel01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_kegstand</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_overhang_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_overhang_05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_overhang_18</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_pathsp_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_plank03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_plank04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_pole_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_pole_01b</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_pole_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_railing_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_railing_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_rope_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_spartium01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_steps_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_stud01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_table_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_table_05</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_table_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_tapestry_15</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_tapestry_19</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_thirrlily_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_thirrlily_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_thirrlily_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_wall_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_wall_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_wall_gt1</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_wall_gt2</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_wallcrv_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_wallup01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA6_water_256</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_base_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_brick01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_brick02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_dock_steps01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_doorjamb</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_dsteps_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_ex_stool_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_house01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_in_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_plank03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_plank04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_plank_pile</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_plat_lrg</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_struc01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_stud01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA7_wall_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_b_07</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_b_13</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_basin_dg</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_bridge_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_bridge_10</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_broom</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_buttress_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_chair_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_crane_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_crane_middle_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_crt_open_06</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_fish01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_fish02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_fishb01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_fishb02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_hbarrel_dg</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_hk_ir_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_orc_ffl_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_pole_01b</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_table_04</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_urn_open01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_wall_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_wall_02</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_wall_end</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_wallcrv_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA8_wallup01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA9_brl_wt_01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA9_dock_steps01</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_m7_NVA9_ship</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_shrine_m2-69_sharmat</key>
+	<val>Kaplica D³ugu Sharmata</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^TR_velothiwall_AimrahLighthouse</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^T_Com_SetMw_SignAkamora_01</key>
+	<val>Akamora</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^T_Com_SetMw_SignWayOranPl_01</key>
+	<val>Plantacja Oran</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^T_Com_SetMw_SignWayTelOuada_01</key>
+	<val>Tel Ouada</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^T_De_Set_BannerTempleEx_03</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^T_De_Set_BannerTownNavAndaram</key>
+	<val>Nav Andaram</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^Tr_m4_sheogorath_small</key>
+	<val>Pos¹¿ek Sheogoratha</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^tr_i2-445_bannershrine_exo</key>
+	<val>Sztandar Exodusu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^tr_i2-445_bannershrine_res</key>
+	<val>Sztandar Resdayn</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^tr_i2_445_templegrate</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^tr_m2_active_plate</key>
+	<val></val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^tr_m4_oran_plantation_banner02</key>
+	<val>Plantacja Oran</val>
+</record>
